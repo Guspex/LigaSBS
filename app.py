@@ -85,10 +85,10 @@ def extrair_cartas_ligamagic(url):
 # ======================== APP STREAMLIT =============================
 
 st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
-st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
+st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering - SBS")
 
 # Carrega dados da planilha
-st.info("🔄 Carregando dados da planilha...")
+st.info("🔄 Carregando dados da planilha... Tenha paciência, demora bastante...")
 cliente = autenticar_planilha()
 planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
 aba = planilha.get_worksheet(0)
