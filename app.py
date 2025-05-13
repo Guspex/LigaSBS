@@ -22,31 +22,39 @@ def autenticar_planilha():
     return cliente
 
 # ======================== SELENIUM + SCRAPING =======================
+def set_page_in_url(url, page_number):
+    url_parts = list(urlparse(url))
+    query = parse_qs(url_parts[4])
+    query['page'] = [str(page_number)]
+    url_parts[4] = urlencode(query, doseq=True)
+    return urlunparse(url_parts)
 
 def extrair_cartas_ligamagic(url):
     try:
         chrome_options = Options()
         chrome_options.add_argument("--headless")
         chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
         chrome_options.add_argument("--no-sandbox")
         chrome_options.binary_location = "/usr/bin/chromium"
     
         driver = webdriver.Chrome(options=chrome_options)
-        driver.get(url)
+        cartas = []
+    page = 1
 
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.ID, "listacolecao"))
-        )
-
+    while page <= max_paginas:
+        url_pagina = set_page_in_url(url, page)
+        driver.get(url_pagina)
+        time.sleep(2)  # Ajuste se necessário
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        driver.quit()
-
         tabela = soup.find("table", {"id": "listacolecao"})
         if not tabela:
-            return []
-
-        cartas = []
+            print(f"Nenhuma tabela encontrada na página {page} (provavelmente acabou a coleção).")
+            break
         linhas = tabela.find_all("tr")[1:]
+        if not linhas:
+            print(f"Sem cartas na página {page}. Interrompendo busca.")
+            break
 
         for linha in linhas:
             colunas = linha.find_all("td")
@@ -57,7 +65,6 @@ def extrair_cartas_ligamagic(url):
                 qualidade = colunas[6].get_text(strip=True)
                 quantidade = colunas[0].get_text(strip=True)
                 preco_venda = colunas[9].get_text(strip=True).replace("R$", "").strip()
-
                 cartas.append({
                     "Nome": nome,
                     "Qualidade": qualidade,
@@ -66,8 +73,9 @@ def extrair_cartas_ligamagic(url):
                     "Quantidade": quantidade,
                     "Preço Venda (R$)": preco_venda
                 })
-
-        return cartas
+        page += 1
+    driver.quit()
+    return cartas
 
     except Exception as e:
         return [{"Erro": f"Erro ao acessar {url}: {e}"}]
