@@ -41,7 +41,7 @@ def extrair_cartas_ligamagic(url):
         driver = webdriver.Chrome(options=chrome_options)
         cartas = []
         page = 1
-
+        max_paginas=50
         while page <= max_paginas:
             url_pagina = set_page_in_url(url, page)
             driver.get(url_pagina)
