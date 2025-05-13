@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import requests
 import json
-import time
 from bs4 import BeautifulSoup
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
@@ -32,59 +31,55 @@ def set_page_in_url(url, page_number):
     return urlunparse(url_parts)
 
 def extrair_cartas_ligamagic(url):
-    try:
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_argument("--log-level=3")
-        chrome_options.binary_location = "/usr/bin/chromium"
-    
-        driver = webdriver.Chrome(options=chrome_options)
-        cartas = []
-        page = 1
-        max_paginas=25
-        while page <= max_paginas:
-            url_pagina = set_page_in_url(url, page)
-            driver.get(url_pagina)
-            try:
-                WebDriverWait(driver, 8).until(
-                    EC.presence_of_element_located((By.ID, "listacolecao"))
-                )
-            except:
-                break
-            soup = BeautifulSoup(driver.page_source, 'html.parser')
-            tabela = soup.find("table", {"id": "listacolecao"})
-            if not tabela:
-                print(f"Nenhuma tabela encontrada na página {page} (provavelmente acabou a coleção).")
-                break
-            linhas = tabela.find_all("tr")[1:]
-            if not linhas:
-                print(f"Sem cartas na página {page}. Interrompendo busca.")
-                break
-    
-            for linha in linhas:
-                colunas = linha.find_all("td")
-                if len(colunas) >= 11:
-                    nome = colunas[3].get_text(strip=True)
-                    extra = colunas[4].get_text(strip=True)
-                    idioma = colunas[5].get_text(strip=True)
-                    qualidade = colunas[6].get_text(strip=True)
-                    quantidade = colunas[0].get_text(strip=True)
-                    preco_venda = colunas[9].get_text(strip=True).replace("R$", "").strip()
-                    cartas.append({
-                        "Nome": nome,
-                        "Qualidade": qualidade,
-                        "Extra": extra,
-                        "Idioma": idioma,
-                        "Quantidade": quantidade,
-                        "Preço Venda (R$)": preco_venda
-                    })
-            page += 1
-        driver.quit()
-        return cartas
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--log-level=3")
+    chrome_options.binary_location = "/usr/bin/chromium"
 
-    except Exception as e:
-        return [{"Erro": f"Erro ao acessar {url}: {e}"}]
+    driver = webdriver.Chrome(options=chrome_options)
+    cartas = []
+    page = 1
+    max_paginas=25
+    while page <= max_paginas:
+        url_pagina = set_page_in_url(url, page)
+        driver.get(url_pagina)
+        try:
+            WebDriverWait(driver, 8).until(
+                EC.presence_of_element_located((By.ID, "listacolecao"))
+            )
+        except:
+            break
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        tabela = soup.find("table", {"id": "listacolecao"})
+        if not tabela:
+            print(f"Nenhuma tabela encontrada na página {page} (provavelmente acabou a coleção).")
+            break
+        linhas = tabela.find_all("tr")[1:]
+        if not linhas:
+            print(f"Sem cartas na página {page}. Interrompendo busca.")
+            break
+
+        for linha in linhas:
+            colunas = linha.find_all("td")
+            if len(colunas) >= 11:
+                nome = colunas[3].get_text(strip=True)
+                extra = colunas[4].get_text(strip=True)
+                idioma = colunas[5].get_text(strip=True)
+                qualidade = colunas[6].get_text(strip=True)
+                quantidade = colunas[0].get_text(strip=True)
+                preco_venda = colunas[9].get_text(strip=True).replace("R$", "").strip()
+                cartas.append({
+                    "Nome": nome,
+                    "Qualidade": qualidade,
+                    "Extra": extra,
+                    "Idioma": idioma,
+                    "Quantidade": quantidade,
+                    "Preço Venda (R$)": preco_venda
+                })
+        page += 1
+    driver.quit()
+    return cartas
 
 # ======================== APP STREAMLIT =============================
 
