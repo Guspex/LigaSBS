@@ -1,14 +1,10 @@
 import streamlit as st
 import pandas as pd
-import requests
-from bs4 import BeautifulSoup
+import json
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
+
 
 # ======================== CONFIGURAÇÕES =============================
 
@@ -21,56 +17,31 @@ def autenticar_planilha():
 
 # ======================== SELENIUM + SCRAPING =======================
 
-def extrair_cartas_ligamagic(url):
-    try:
-        chrome_options = Options()
-        chrome_options.binary_location = "/usr/bin/chromium-browser"
-        chrome_options.add_argument("--headless=new")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--disable-gpu")
+def set_page_in_url(url, page_number):
+    url_parts = list(urlparse(url))
+    query = parse_qs(url_parts[4])
+    query['page'] = [str(page_number)]
+    url_parts[4] = urlencode(query, doseq=True)
+    return urlunparse(url_parts)
 
-        service = Service("/usr/bin/chromedriver")
-        driver = webdriver.Chrome(service=service, options=chrome_options)
-        driver.get(url)
+def extrair_cartas_ligamagic(nome_jogador, tipo='have'):
+    """
+    Busca as cartas do arquivo cartas.json por nome de jogador e tipo ('have' ou 'want').
 
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.ID, "listacolecao"))
-        )
+    Parâmetros:
+      nome_jogador (str): Nome do jogador conforme está em cartas.json.
+      tipo (str): 'have' ou 'want'.
 
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        driver.quit()
+    Retorna:
+      Lista de cartas do respectivo jogador/tipo.
+    """
+    with open("cartas.json", encoding="utf-8") as f:
+        jogadores = json.load(f)
 
-        tabela = soup.find("table", {"id": "listacolecao"})
-        if not tabela:
-            return []
-
-        cartas = []
-        linhas = tabela.find_all("tr")[1:]
-
-        for linha in linhas:
-            colunas = linha.find_all("td")
-            if len(colunas) >= 11:
-                nome = colunas[3].get_text(strip=True)
-                extra = colunas[4].get_text(strip=True)
-                idioma = colunas[5].get_text(strip=True)
-                qualidade = colunas[6].get_text(strip=True)
-                quantidade = colunas[0].get_text(strip=True)
-                preco_venda = colunas[9].get_text(strip=True).replace("R$", "").strip()
-
-                cartas.append({
-                    "Nome": nome,
-                    "Qualidade": qualidade,
-                    "Extra": extra,
-                    "Idioma": idioma,
-                    "Quantidade": quantidade,
-                    "Preço Venda (R$)": preco_venda
-                })
-
-        return cartas
-
-    except Exception as e:
-        return [{"Erro": f"Erro ao acessar {url}: {e}"}]
+    for jogador in jogadores:
+        if jogador["nome"].strip().lower() == nome_jogador.strip().lower():
+            return jogador.get(tipo, [])
+    return []
 
 # ======================== APP STREAMLIT =============================
 
@@ -94,8 +65,8 @@ for linha in dados:
     link_have = linha.get("Link do Have", "").strip()
     link_want = linha.get("Link do Want", "").strip()
 
-    lista_have = extrair_cartas_ligamagic(link_have) if link_have else []
-    lista_want = extrair_cartas_ligamagic(link_want) if link_want else []
+    lista_have = extrair_cartas_ligamagic(nome, tipo='have')
+    lista_want = extrair_cartas_ligamagic(nome, tipo='want')
 
     jogadores.append({
         "nome": nome,
