@@ -10,8 +10,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # Autenticação com Google Sheets
 def autenticar_planilha():
-    escopo = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credenciais_google.json", escopo)
+    escopo = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+    info = json.loads(st.secrets["GOOGLE_CREDENTIALS"])
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(info, escopo)
     cliente = gspread.authorize(creds)
     return cliente
 
