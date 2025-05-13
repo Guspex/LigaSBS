@@ -35,7 +35,8 @@ def extrair_cartas_ligamagic(url):
     try:
         chrome_options = Options()
         chrome_options.add_argument("--headless")
-
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--log-level=3")
         chrome_options.binary_location = "/usr/bin/chromium"
     
         driver = webdriver.Chrome(options=chrome_options)
@@ -46,7 +47,7 @@ def extrair_cartas_ligamagic(url):
             url_pagina = set_page_in_url(url, page)
             driver.get(url_pagina)
             try:
-                WebDriverWait(driver, 5).until(
+                WebDriverWait(driver, 8).until(
                     EC.presence_of_element_located((By.ID, "listacolecao"))
                 )
             except:
