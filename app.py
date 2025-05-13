@@ -43,11 +43,16 @@ def extrair_cartas_ligamagic(url):
         driver = webdriver.Chrome(options=chrome_options)
         cartas = []
         page = 1
-        max_paginas=50
+        max_paginas=25
         while page <= max_paginas:
             url_pagina = set_page_in_url(url, page)
             driver.get(url_pagina)
-            time.sleep(2)  # Ajuste se necessário
+            try:
+                WebDriverWait(driver, 5).until(
+                    EC.presence_of_element_located((By.ID, "listacolecao"))
+                )
+            except:
+                break
             soup = BeautifulSoup(driver.page_source, 'html.parser')
             tabela = soup.find("table", {"id": "listacolecao"})
             if not tabela:
