@@ -74,8 +74,8 @@ def extrair_cartas_ligamagic(url):
                         "Preço Venda (R$)": preco_venda
                     })
             page += 1
-    driver.quit()
-    return cartas
+        driver.quit()
+        return cartas
 
     except Exception as e:
         return [{"Erro": f"Erro ao acessar {url}: {e}"}]
