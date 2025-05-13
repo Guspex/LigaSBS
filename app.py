@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from urllib.parse import urljoin, urlparse, parse_qs, urlencode, urlunparse
 
 # ======================== CONFIGURAÇÕES =============================
 
