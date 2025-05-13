@@ -1,22 +1,44 @@
 import streamlit as st
 import pandas as pd
+<<<<<<< HEAD
 import json
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 
+=======
+import requests
+import json
+from bs4 import BeautifulSoup
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from urllib.parse import urljoin, urlparse, parse_qs, urlencode, urlunparse
+>>>>>>> 6eb4a564a4e577a9a6cd5ad0bdcb6092059ba1e7
 
 # ======================== CONFIGURAÇÕES =============================
 
 # Autenticação com Google Sheets
 def autenticar_planilha():
-    escopo = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credenciais_google.json", escopo)
+    escopo = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+    info = json.loads(st.secrets["GOOGLE_CREDENTIALS"])
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(info, escopo)
     cliente = gspread.authorize(creds)
     return cliente
 
 # ======================== SELENIUM + SCRAPING =======================
+def set_page_in_url(url, page_number):
+    url_parts = list(urlparse(url))
+    query = parse_qs(url_parts[4])
+    query['page'] = [str(page_number)]
+    url_parts[4] = urlencode(query, doseq=True)
+    return urlunparse(url_parts)
 
+<<<<<<< HEAD
 def set_page_in_url(url, page_number):
     url_parts = list(urlparse(url))
     query = parse_qs(url_parts[4])
@@ -42,14 +64,66 @@ def extrair_cartas_ligamagic(nome_jogador, tipo='have'):
         if jogador["nome"].strip().lower() == nome_jogador.strip().lower():
             return jogador.get(tipo, [])
     return []
+=======
+def extrair_cartas_ligamagic(url):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--log-level=3")
+    chrome_options.binary_location = "/usr/bin/chromium"
+
+    driver = webdriver.Chrome(options=chrome_options)
+    cartas = []
+    page = 1
+    max_paginas=25
+    while page <= max_paginas:
+        url_pagina = set_page_in_url(url, page)
+        driver.get(url_pagina)
+        try:
+            WebDriverWait(driver, 8).until(
+                EC.presence_of_element_located((By.ID, "listacolecao"))
+            )
+        except:
+            break
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        tabela = soup.find("table", {"id": "listacolecao"})
+        if not tabela:
+            print(f"Nenhuma tabela encontrada na página {page} (provavelmente acabou a coleção).")
+            break
+        linhas = tabela.find_all("tr")[1:]
+        if not linhas:
+            print(f"Sem cartas na página {page}. Interrompendo busca.")
+            break
+
+        for linha in linhas:
+            colunas = linha.find_all("td")
+            if len(colunas) >= 11:
+                nome = colunas[3].get_text(strip=True)
+                extra = colunas[4].get_text(strip=True)
+                idioma = colunas[5].get_text(strip=True)
+                qualidade = colunas[6].get_text(strip=True)
+                quantidade = colunas[0].get_text(strip=True)
+                preco_venda = colunas[9].get_text(strip=True).replace("R$", "").strip()
+                cartas.append({
+                    "Nome": nome,
+                    "Qualidade": qualidade,
+                    "Extra": extra,
+                    "Idioma": idioma,
+                    "Quantidade": quantidade,
+                    "Preço Venda (R$)": preco_venda
+                })
+        page += 1
+    driver.quit()
+    return cartas
+>>>>>>> 6eb4a564a4e577a9a6cd5ad0bdcb6092059ba1e7
 
 # ======================== APP STREAMLIT =============================
 
 st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
-st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
+st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering - SBS")
 
 # Carrega dados da planilha
-st.info("🔄 Carregando dados da planilha...")
+st.info("🔄 Carregando dados da planilha... Tenha paciência, demora bastante...")
 cliente = autenticar_planilha()
 planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
 aba = planilha.get_worksheet(0)
