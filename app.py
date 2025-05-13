@@ -24,14 +24,12 @@ def autenticar_planilha():
 def extrair_cartas_ligamagic(url):
     try:
         chrome_options = Options()
-        chrome_options.binary_location = "/usr/bin/chromium-browser"
-        chrome_options.add_argument("--headless=new")
-        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--headless")
         chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--disable-gpu")
-
-        service = Service("/usr/bin/chromedriver")
-        driver = webdriver.Chrome(service=service, options=chrome_options)
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.binary_location = "/usr/bin/chromium"
+    
+        driver = webdriver.Chrome(options=chrome_options)
         driver.get(url)
 
         WebDriverWait(driver, 10).until(
