@@ -96,7 +96,7 @@ def carta_com_link_e_imagem(nome, url, img_url):
         f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
     )
 
-def tabela_html_cartas(cartas, altura_px=300):
+def tabela_html_cartas(cartas, altura_px=400):
     if not cartas:
         return "<i>Nenhuma carta cadastrada.</i>"
     colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
