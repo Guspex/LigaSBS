@@ -50,11 +50,17 @@ st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
 st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
 
 # Carrega dados da planilha
-st.info("🔄 Carregando dados da planilha...")
-cliente = autenticar_planilha()
-planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
-aba = planilha.get_worksheet(0)
-dados = aba.get_all_records()
+with st.status("🔄 Carregando dados da planilha...", expanded=True) as status:
+    cliente = autenticar_planilha()
+    planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
+    aba = planilha.get_worksheet(0)
+    dados = aba.get_all_records()
+    status.update(label="✅ Dados carregados com sucesso!", state="complete")
+
+# =========== CAMPO DE BUSCA POR CARTA =============
+st.header("🔎 Buscar carta por nome")
+
+busca = st.text_input("Digite o nome (ou parte) da carta", "")
 
 # Estruturas auxiliares
 jogadores = []
@@ -124,10 +130,6 @@ for jogador in jogadores:
                 texto += f"\n- {len(pode_trocar)} carta(s) que você quer e ele tem: `{', '.join(pode_trocar)}`"
             st.markdown(texto)
             
-# =========== CAMPO DE BUSCA POR CARTA =============
-st.header("🔎 Buscar carta por nome")
-
-busca = st.text_input("Digite o nome (ou parte) da carta", "")
 
 if busca.strip():
     busca_normalizada = busca.strip().lower()
