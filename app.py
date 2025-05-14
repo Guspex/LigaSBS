@@ -226,7 +226,7 @@ for jogador in jogadores:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
             html = tabela_html_cartas(jogador["have"])
-            st.markdown(html, unsafe_allow_html=True)
+            st.markdown(tabela_html_cartas(jogador["have"], altura_px=350), unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta cadastrada.")
 
@@ -234,7 +234,7 @@ for jogador in jogadores:
         st.markdown("**Cartas desejadas (Want):**")
         if jogador["want"]:
             html = tabela_html_cartas(jogador["want"])
-            st.markdown(html, unsafe_allow_html=True)
+            st.markdown(tabela_html_cartas(jogador["want"], altura_px=350), unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta desejada cadastrada.")
 
