@@ -95,20 +95,20 @@
       },
       {
         "Nome": "CoagirDuress",
-        "Qualidade": "SP",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,18",
-        "Imagem": ""
-      },
-      {
-        "Nome": "CoagirDuress",
         "Qualidade": "MP",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "4,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "CoagirDuress",
+        "Qualidade": "SP",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
         "Imagem": ""
       },
       {
@@ -180,7 +180,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,25",
+        "Preço Venda (R$)": "4,90",
         "Imagem": ""
       },
       {
@@ -234,7 +234,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,08",
         "Imagem": ""
       },
       {
@@ -261,7 +261,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,07",
         "Imagem": ""
       },
       {
@@ -306,7 +306,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,08",
+        "Preço Venda (R$)": "0,07",
         "Imagem": ""
       },
       {
@@ -331,7 +331,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,96",
+        "Preço Venda (R$)": "3,90",
         "Imagem": ""
       },
       {
@@ -340,7 +340,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,88",
+        "Preço Venda (R$)": "1,90",
         "Imagem": ""
       },
       {
@@ -376,7 +376,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,72",
+        "Preço Venda (R$)": "0,53",
         "Imagem": ""
       },
       {
@@ -601,7 +601,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,28",
         "Imagem": ""
       },
       {
@@ -709,7 +709,7 @@
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,95",
+        "Preço Venda (R$)": "4,90",
         "Imagem": ""
       },
       {
@@ -718,7 +718,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "7,61",
+        "Preço Venda (R$)": "7,64",
         "Imagem": ""
       },
       {
@@ -916,7 +916,7 @@
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "102,98",
+        "Preço Venda (R$)": "99,99",
         "Imagem": ""
       },
       {
@@ -1013,7 +1013,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
+        "Preço Venda (R$)": "0,08",
         "Imagem": ""
       },
       {
@@ -1058,7 +1058,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,14",
         "Imagem": ""
       },
       {
@@ -1112,7 +1112,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,18",
+        "Preço Venda (R$)": "0,17",
         "Imagem": ""
       },
       {
@@ -1166,7 +1166,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "61,95",
+        "Preço Venda (R$)": "59,99",
         "Imagem": ""
       },
       {
@@ -1399,15 +1399,6 @@
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Areias VerdejantesBlossoming Sands",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
         "Quantidade": "4x",
         "Preço Venda (R$)": "0,14",
         "Imagem": ""
@@ -1419,6 +1410,15 @@
         "Idioma": "-",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Areias VerdejantesBlossoming Sands",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,14",
         "Imagem": ""
       },
       {
@@ -1499,7 +1499,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,04",
         "Imagem": ""
       },
       {
@@ -1508,7 +1508,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,04",
+        "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
       {
@@ -1706,7 +1706,727 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,04",
+        "Preço Venda (R$)": "3,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bijuteria SinistraGrim Bauble",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bivaque da FronteiraFrontier Bivouac",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bosque MurmuranteMurmuring Bosk",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,85",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Botânico ViajanteTraveling Botanist",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,63",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brigada da Lâmina NoturnaNightblade Brigade",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brilho de AutoridadeGleam of Authority",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brotar das CinzasGrow from the Ashes",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brutamonte do PântanoMarsh Hulk",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruto de Guerra VelozSprinting Warbrute",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruto de MurasaMurasa Brute",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bucaneiro ÁvidoKeen Buccaneer",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Buscar pelo AmanhãSearch for Tomorrow",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cabeça DeslizanteSlitherhead",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçada ao LuarMoonlight Hunt",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçada de Dragão GlacialGlacial Dragonhunt",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçador SolícitoHelpful Hunter",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,17",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçadora de RocaRoc Hunter",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçadora em SintoniaAttuned Hunter",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cachoeira dos EspinhosThornwood Falls",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Campeão de DusanChampion of Dusan",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Campo de EstaseStasis Field",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Canalizador de ÉterAether Channeler",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,51",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Capanga de BerroHowler's Heavy",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Capitão do PovoadoHamlet Captain",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,17",
+        "Imagem": ""
+      },
+      {
+        "Nome": "CapotarTrip Up",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Carga SincronizadaSynchronized Charge",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,24",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Carniçal FamintoHungry Ghoul",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Carniceiro de SilumgarSilumgar Butcher",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Carpa AncestralAncient Carp",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Carrasco EnforcadoHanged Executioner",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,32",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Casarão Assombrado do PântanoMoorland Haunt",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,56",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Casco-tumba ErranteWandering Tombshell",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Celebrante KorKor Celebrant",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Centralizar AlmaCenter Soul",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cerátopo PassomotoQuakestrider Ceratops",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,16",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cervo BrunidoBurnished Hart",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cervo de DegeloSnowmelt Stag",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Chamado do ConclaveCall of the Conclave",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Chamas RadiantesRadiant Flames",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Chandra, Caçadora de CentelhaChandra, Spark Hunter",
+        "Qualidade": "-",
+        "Extra": "Foil, Promo",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "37,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Charix, Ilha da FúriaCharix, the Raging Isle",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ciclope CrepitanteCrackling Cyclops",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cidade PortuáriaPort Town",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,88",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cisão da Árvore de FamíliaKin-Tree Severance",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,57",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Clareira na SelvaJungle Hollow",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Clareira na SelvaJungle Hollow",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Clériga do Enclave CelesteSkyclave ClericBasílica do Enclave CelesteSkyclave Basilica",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Clérigo ArrependidoRemorseful Cleric",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "CoagirDuress",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Coisa do Enxame HorrendoIt of the Horrid Swarm",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Colidir e QueimarCrash and Burn",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Colônia de GnarlidsGnarlid Colony",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Colosso de Aço NegroDarksteel Colossus",
+        "Qualidade": "-",
+        "Extra": "Foil",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "12,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Coluna de LargadaStarting Column",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,12",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Comando de AtarkaAtarka's Command",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Comando de KolaghanKolaghan's Command",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,57",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Comando de KrenkoKrenko's Command",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Comerciante RespeitávelReputable Merchant",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "CondenarCondemn",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,60",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Conjurador de Dunas de DromokaDromoka Dunecaster",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Conquistador SanguinárioBloodthirsty Conqueror",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "179,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Constritor da ForcaNoose Constrictor",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Contar com a SorteCount on Luck",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "5,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Convicção VerdadeiraTrue Conviction",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "15,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Convocadora de Feras QuirionQuirion Beastcaller",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,97",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cordilheiras das CascatasSwiftwater Cliffs",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Corrente DesfibrilanteDefibrillating Current",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Corta-água da MaréTide Skimmer",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,45",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento AbundanteAbundant Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,80",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento AbundanteAbundant Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento AbundanteAbundant Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento AntinaturalUnnatural Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "8,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento DesenfreadoGiant Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento DesgovernadoUnbridled Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crescimento TitânicoTitanic Growth",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "CrocanuroCrocanura",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Crocodila AdornadaAdorned Crocodile",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Curadora de DestinosCurator of Destinies",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,17",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Curandeira AcompanhadaAttended Healer",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Curandeiro Abençoado pelo SolSun-Blessed Healer",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
         "Imagem": ""
       }
     ],
@@ -1834,7 +2554,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,26",
+        "Preço Venda (R$)": "1,20",
         "Imagem": ""
       },
       {
@@ -1852,7 +2572,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,17",
+        "Preço Venda (R$)": "0,15",
         "Imagem": ""
       },
       {
@@ -1912,7 +2632,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,88",
+        "Preço Venda (R$)": "1,90",
         "Imagem": ""
       },
       {
@@ -2389,7 +3109,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,09",
         "Imagem": ""
       },
       {
@@ -2416,7 +3136,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,11",
         "Imagem": ""
       },
       {
@@ -2443,7 +3163,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,09",
         "Imagem": ""
       },
       {
@@ -2624,6 +3344,1455 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Faça Sua JogadaMake Your Move",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Falcão da TempestadeTempest Hawk",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,31",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Fantasma AmigávelFriendly Ghost",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Fantasma InfernalInfernal Phantom",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Fantasma Vigia do MercadoMarketwatch Phantom",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Favoritismo do PúblicoCrowd's Favor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Floresta (#285)Forest (#285)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,22",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Floresta (#285)Forest (#285)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Fogo Dracônico CanalizadoChanneled Dragonfire",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,63",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Fornecedor ArgentadoSterling Supplier",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Frenesi na Linha de FrenteFrontline Rush",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,37",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Frigorífico // Restaurante AlagadoMeat Locker // Drowned Diner",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Gigapeia da EmboscadaAmbush Gigapede",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Gimbal, Gremlin ProdígioGimbal, Gremlin Prodigy",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,39",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ginete Celeste IdealistaStarry-Eyed Skyrider",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Grão-vorme-da-areiaGreater Sandwurm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Gremlin IrreverenteIrreverent Gremlin",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guardião do Ouro KheruKheru Goldkeeper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guardião do Sacrário JeskaiJeskai Shrinekeeper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guerreiro CarvalhonóOakgnarl Warrior",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guerreiro SerpenteSerpent Warrior",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "IlhaIsland",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "IlhaIsland",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ilha (#263)Island (#263)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ilha (#265)Island (#265)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ilha (#270)Island (#270)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,24",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ilha (#280)Island (#280)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ilha (#395)Island (#395)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Inferno ImpossívelImpossible Inferno",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Inseto de Carga FundidoSmelted Chargebug",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,03",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Inspetora de CriptídeosCryptid Inspector",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Intimidador do CumeSummit Intimidator",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Investida de ValgavothValgavoth's Onslaught",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,70",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Kaya, Justiça dos EspíritosKaya, Spirits' Justice",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "2,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Laço do TrovãoThunder Lasso",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lâmina da DestruiçãoDoom Blade",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lâmina de Aço de CoriCori-Steel Cutter",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "134,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lammasu da AbsolviçãoAbsolving Lammasu",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lamúria da GuerraWail of War",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Legado de AleshaAlesha's Legacy",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Leopardo de ResgateRescue Leopard",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lhurgoyf",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,48",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lich do Reino SubterrâneoUnderrealm Lich",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "20,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Líder de Torcida AcrobáticaAcrobatic Cheerleader",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Linha de Força do VácuoLeyline of the Void",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,94",
+        "Imagem": ""
+      },
+      {
+        "Nome": "LogroSkulduggery",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Loxodonte BisbilhoteiroLoxodon Eavesdropper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Manifestar PavorManifest Dread",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Manobra CoordenadaCoordinated Maneuver",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mansão NegligenciadaNeglected Manor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Máscara de AssassinoKiller's Mask",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Matzalantli, a Grande PortaMatzalantli, the Great DoorO NúcleoThe Core",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,39",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Meca Hacker de EnergiaSurgehacker Mech",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mecanotitã do PetromotorOildeep Gearhulk",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "22,79",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Medo da InfinitudeFear of Infinity",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Medo de Dentes PerdidosFear of Lost Teeth",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mentor dos HumildesMentor of the Meek",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mercenário InescrupulosoUnscrupulous Contractor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Meseta da MiragemMirage Mesa",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mestre do Pincel JeskaiJeskai Brushmaster",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mestre EspontâneoEffortless Master",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,29",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Millikin",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Monastério da Montanha de CoriCori Mountain Monastery",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "8,93",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Monastério MísticoMystic Monastery",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Monstrinho da CabeceiraBedhead Beastie",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Monstrinho de RetalhosPatchwork Beastie",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "MontanhaMountain",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Montanha (#269)Mountain (#269)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Montanha (#270)Mountain (#270)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Montanha (#794)Mountain (#794)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Montanha (260)Mountain (260)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Monumento JeskaiJeskai Monument",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,42",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mosca-piranhaPiranha Fly",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mutilador VilVile Mutilator",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Nashi, Buscador na EscuridãoNashi, Searcher in the Dark",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Negar o DivinoDeny the Divine",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Nutridor da Árvore de FamíliaKin-Tree Nurturer",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "O ColmeiarbustoThe Swarmweaver",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Oculus FrisadoFrilled Oculus",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Palhaço AtrozVicious Clown",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PântanoSwamp",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PântanoSwamp",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PântanoSwamp",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,41",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#258)Swamp (#258)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#259)Swamp (#259)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#260)Swamp (#260)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#261)Swamp (#261)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,24",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#281)Swamp (#281)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pântano (#406)Swamp (#406)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,60",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Parca AmaldiçoadaCursed Windbreaker",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pavor CrescenteGrowing Dread",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pegar o PrêmioGrab the Prize",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Penhasco Marcado pelo VentoWind-Scarred Crag",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Percussionista de CordaClockwork Percussionist",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pesquisadora PerseguidaStalked Researcher",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PiroclasmaPyroclasm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pisoteador de DemoliçãoDemolition Stomper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PlaníciePlains",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PlaníciePlains",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,45",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Planície (#394)Plains (#394)",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Possessão VingativaVengeful Possession",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Predador da Aurora Irritado // Rugido SinalizadorRiling Dawnbreaker // Signaling Roar",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Presa de DragãoDragon's Prey",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Profetisa do CrânioSkull Prophet",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Protetor da Família da FortalezaFortress Kin-Guard",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PutrificarPutrefy",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,42",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Quebrador de Elos NezumiNezumi Linkbreaker",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Quebragalhos SalivanteSlavering Branchsnapper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Raio DuploTwin Bolt",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rashel, Fist of Torm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "99,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rasteira de Roda d'ÁguaRiverwheel Sweep",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Reconquista da HerançaHeritage Reclamation",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,60",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Remanso FunestoDismal Backwater",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Repreensão de NarsetNarset's Rebuke",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Resgate do FragmentomanteShardmage's Rescue",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,48",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Restauração IndesejadaUnwanted Remake",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,47",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ritmo da NaturezaNature's Rhythm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "20,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rito de RenovaçãoRite of Renewal",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rotina do NômadeRoamer's Routine",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sab-Sunen, Encarnação de LuxaSab-Sunen, Luxa Embodied",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "20,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Salteador PisalavaLavastep Raider",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,03",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sanguessuga dos Salões TenebrososBalemurk Leech",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sanguinomoscas do DeltaDelta Bloodflies",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sarkhan, Ascendente DracônicoSarkhan, Dragon Ascendant",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,61",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sentinela da Alcateia EspinhosaBristlepack Sentry",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sentinela de SumalaSumala Sentry",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Serpente da Crista de GeloIceridge Serpent",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Serra ElétricaChainsaw",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Shiko, Paradigma do CaminhoShiko, Paragon of the Way",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "40,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sobrevivente CautelosaCautious Survivor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sótão Abandonado // TerraçoDerelict Attic // Widows's Walk",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sumir da VistaVanish from Sight",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Surpresa do EnlutadoMourner's Surprise",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Surrak, Caçador ElusivoSurrak, Elusive Hunter",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "7,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Surto AvassaladorOverwhelming Surge",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sussurrador da SebeHedge Whisperer",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sussurro IncessanteUnending Whisper",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "SustãoJump Scare",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Syr Konrad, o SisudoSyr Konrad, the Grim",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Talho das SombrasSlice from the Shadows",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Tarmogoyf Nest",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,98",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Técnica do Passo FluvialRiverwalk Technique",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Tela AssombradaHaunted Screen",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Tempestade de Dragões InvasoraEncroaching Dragonstorm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,56",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Tiro HábilTrick Shot",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Titã do InfernoInferno Titan",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Trator Infernal AssombradoHaunted Hellride",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,33",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ugin, Olho das TempestadesUgin, Eye of the Storms",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "289,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Uivossauro IndrikIndrik Stomphowler",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": ""
+      },
+      {
+        "Nome": "UltrapassarOverrun",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,16",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Um Último TrabalhoOne Last Job",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,45",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vamos Jogar um JogoLet's Play a Game",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vanguarda InspiradaInspirited Vanguard",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vastidão MorfoterrenaTerramorphic Expanse",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Velocista Morto-vivoUndead Sprinter",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Viatura MecanogênicaLifecraft Engine",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "4,22",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vigarista do SangueBlood Hustler",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vigia da Beira do CaminhoWatcher of the Wayside",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,12",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vigor HorrorizanteHorrid Vigor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vingança FinalFinal Vengeance",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Zona de NidificaçãoNesting Grounds",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
         "Imagem": ""
       }
     ],
@@ -2829,7 +4998,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "15,90",
+        "Preço Venda (R$)": "16,19",
         "Imagem": ""
       },
       {
@@ -2874,7 +5043,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "4,44",
+        "Preço Venda (R$)": "4,75",
         "Imagem": ""
       },
       {
@@ -2901,7 +5070,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,83",
+        "Preço Venda (R$)": "0,91",
         "Imagem": ""
       },
       {
@@ -2928,7 +5097,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,99",
+        "Preço Venda (R$)": "0,74",
         "Imagem": ""
       },
       {
@@ -3042,19 +5211,19 @@
       {
         "Nome": "Caranguejo FerraduraHorseshoe Crab",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,23",
+        "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
       {
         "Nome": "Caranguejo FerraduraHorseshoe Crab",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,23",
         "Imagem": ""
       },
       {
@@ -3090,7 +5259,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,95",
+        "Preço Venda (R$)": "0,99",
         "Imagem": ""
       },
       {
@@ -3108,7 +5277,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,95",
+        "Preço Venda (R$)": "23,45",
         "Imagem": ""
       },
       {
@@ -3162,7 +5331,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "9,93",
+        "Preço Venda (R$)": "10,72",
         "Imagem": ""
       },
       {
@@ -3189,7 +5358,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "1,93",
+        "Preço Venda (R$)": "2,00",
         "Imagem": ""
       },
       {
@@ -3225,7 +5394,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "3,90",
+        "Preço Venda (R$)": "1,49",
         "Imagem": ""
       },
       {
@@ -3432,7 +5601,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,29",
+        "Preço Venda (R$)": "0,30",
         "Imagem": ""
       },
       {
@@ -3479,6 +5648,897 @@
         "Quantidade": "3x",
         "Preço Venda (R$)": "0,04",
         "Imagem": ""
+      },
+      {
+        "Nome": "Golpe RelampejanteLightning Strike",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Grande TanukiGreater Tanuki",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guarda Real KjeldoranaKjeldoran Royal Guard",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,62",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Guardamar NyxnataNyxborn Seaguard",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Harpia da CavernaCavern Harpy",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "2,35",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Herói da Torre de LeinaHero of Leina Tower",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Iluminar o PalcoLight Up the Stage",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Javali TerritorialTerritorial Boar",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Juggernaut de Aço NegroDarksteel Juggernaut",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "1,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Jurado SetessanoSetessan Oathsworn",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Jurado SetessanoSetessan Oathsworn",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,43",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Kalamax, Criador de TempestadesKalamax, the Stormsire",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,51",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Katana AncestralAncestral Katana",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lançador SímioSimian Sling",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Lich do TalismãPhylactery Lich",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,24",
+        "Imagem": ""
+      },
+      {
+        "Nome": "LimparWipe Away",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Luvas de LadinoRogue's Gloves",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Luz BanidoraBanishing Light",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Machado de Aço NegroDarksteel Axe",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,33",
+        "Imagem": ""
+      },
+      {
+        "Nome": "MacularDefile",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "5,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Maestria do LichLich's Mastery",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,43",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mal ImortalUndying Evil",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "3,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Malhocéfalo PugnazPugnacious Hammerskull",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,40",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mangual do InquisidorInquisitor's Flail",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "7,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Manto de Seda RuflanteWhispersilk Cloak",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "12,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Martelo do ColossoColossus Hammer",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "7,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Medalhão do FuneralFuneral Charm",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "6,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mercador Cinzento de AsfódelosGray Merchant of Asphodel",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "3,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Mirari",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,29",
+        "Imagem": ""
+      },
+      {
+        "Nome": "MutilarMutilate",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "12,48",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Myr de Aço NegroDarksteel Myr",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "3,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Não DesperdiçarWaste Not",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "27,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Negócio EscusoDark Deal",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "13,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "NixatideNyxathid",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,67",
+        "Imagem": ""
+      },
+      {
+        "Nome": "O EcúleoThe Rack",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "19,98",
+        "Imagem": ""
+      },
+      {
+        "Nome": "O-Naginata",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,64",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Olho de Lugar NenhumEye of Nowhere",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "1,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Onda RessonanteResounding Wave",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "OptarOpt",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ordem de YawgmothOrder of Yawgmoth",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "OrnitópteroOrnithopter",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "OsseomanciaSkeletal Scrying",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "11,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "OstracizarOstracize",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,94",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PasmarDaze",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "30,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Passado em ChamasPast in Flames",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "6,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pedra da MenteMind Stone",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Pedra do Buscador de SabedoriaLoreseeker's Stone",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Perfurar MágicaSpell Pierce",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Piromante JovemYoung Pyromancer",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "1,80",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Planetário de GhirapurGhirapur Orrery",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "PonderarPonder",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "18,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Preservadora JukaiJukai Preserver",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rancor",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "6,68",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rastreador de UlvenwaldUlvenwald Tracker",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "24,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rato LadrãoBurglar Rat",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ratos VorazesRavenous Rats",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "ReesculpirResculpt",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "RegredirRegress",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Reino da Verdade de MichikoMichiko's Reign of TruthRetrato de MichikoPortrait of Michiko",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,24",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Relíquia de Aço NegroDarksteel Relic",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "2,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Renegado de NarnamNarnam Renegade",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Reservatório de PensamentosThink Tank",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ressurgir da CovaRise from the Grave",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "RetirarWithdraw",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Retorcer a MenteWrench Mind",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": ""
+      },
+      {
+        "Nome": "RetrocederRewind",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Reversão DramáticaDramatic Reversal",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ritos da PrimaveraRites of Spring",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ritual SombrioDark Ritual",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ritual SombrioDark Ritual",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "29,60",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ritual SombrioDark Ritual",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "49,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ronin AkkiAkki Ronin",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Rumores PravosVicious Rumors",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Samurai InigualávelPeerless Samurai",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sangue dos InocentesInnocent Blood",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "2,35",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sem PiedadeNo Mercy",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "71,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "SincoparSyncopate",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sinkhole",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "27,19",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Sino do TemploTemple Bell",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "12,60",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Solidariedade dos HeróisSolidarity of Heroes",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,96",
+        "Imagem": ""
+      },
+      {
+        "Nome": "SonóforoSomnophore",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Talento EliminadorBanishing Knack",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "2,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Talrand, Invocador CelesteTalrand, Sky Summoner",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,80",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Talrand, Invocador CelesteTalrand, Sky Summoner",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Temporada de CrescimentoSeason of Growth",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "7x",
+        "Preço Venda (R$)": "0,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "TermoalquimistaThermo-Alchemist",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,71",
+        "Imagem": ""
+      },
+      {
+        "Nome": "TerremotoEarthquake",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "5,49",
+        "Imagem": ""
+      },
+      {
+        "Nome": "TiteriteiroPuppeteer",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,39",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Traje BrutoBrute Suit",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Treinamento SetessanoSetessan Training",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Trepadeira de MatavastaVines of Vastwood",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "17,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Triunfo de LilianaLiliana's Triumph",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,28",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vácuo InterplanarPlanar Void",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "47,44",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vampiro Falcão-da-NoiteVampire Nighthawk",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "VaricelaSmallpox",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "1,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Veterano RhoxRhox Veteran",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vingança da PresaPrey's Vengeance",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vivien Reid",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "4,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Vivien, Campeã da NaturezaVivien, Champion of the Wilds",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,50",
+        "Imagem": ""
       }
     ],
     "want": []
@@ -3495,24 +6555,6 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "11,00",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Ancião Dorso PrateadoSilverback Elder",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "24,99",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Ancião EsquecidoForgotten Ancient",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "2,25",
         "Imagem": ""
       },
       {
@@ -3539,7 +6581,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "34,89",
+        "Preço Venda (R$)": "33,16",
         "Imagem": ""
       },
       {
@@ -3602,7 +6644,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "29,48",
+        "Preço Venda (R$)": "29,90",
         "Imagem": ""
       },
       {
@@ -3611,7 +6653,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "9,85",
+        "Preço Venda (R$)": "8,05",
         "Imagem": ""
       },
       {
@@ -3665,7 +6707,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "13,95",
+        "Preço Venda (R$)": "19,95",
         "Imagem": ""
       },
       {
@@ -3750,33 +6792,6 @@
         "Imagem": ""
       },
       {
-        "Nome": "Instilar EnergiaInstill Energy",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "68,99",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Kibo, Uktabi Prince",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "18,90",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Kogla e YidaroKogla and Yidaro",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "7,00",
-        "Imagem": ""
-      },
-      {
         "Nome": "Kogla, o Símio TitânicoKogla, the Titan Ape",
         "Qualidade": "M",
         "Extra": "",
@@ -3804,12 +6819,12 @@
         "Imagem": ""
       },
       {
-        "Nome": "Mímico MetálicoMetallic Mimic",
-        "Qualidade": "M",
+        "Nome": "Musa Nascida da SementeSeedborn Muse",
+        "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "14,00",
+        "Preço Venda (R$)": "100,00",
         "Imagem": ""
       },
       {
@@ -3917,7 +6932,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "11,00",
+        "Preço Venda (R$)": "11,95",
         "Imagem": ""
       },
       {
@@ -3939,15 +6954,6 @@
         "Imagem": ""
       },
       {
-        "Nome": "Simulacro de SímioSimian Simulacrum",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
-        "Imagem": ""
-      },
-      {
         "Nome": "Sombra de UrsoBear Umbra",
         "Qualidade": "M",
         "Extra": "",
@@ -3957,21 +6963,21 @@
         "Imagem": ""
       },
       {
+        "Nome": "Squee, Monarca DiscutívelSquee, Dubious Monarch",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "6,48",
+        "Imagem": ""
+      },
+      {
         "Nome": "Talismã do ImpulsoTalisman of Impulse",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "10,68",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Torbran, Tano de Lapa VermelhaTorbran, Thane of Red Fell",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "30,93",
         "Imagem": ""
       },
       {
@@ -3990,15 +6996,6 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "2,50",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Tudo Será UmAll Will Be One",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "41,00",
         "Imagem": ""
       },
       {
@@ -4094,7 +7091,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
+        "Preço Venda (R$)": "0,08",
         "Imagem": ""
       },
       {
@@ -4202,7 +7199,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,14",
         "Imagem": ""
       },
       {
@@ -4355,7 +7352,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "19,74",
+        "Preço Venda (R$)": "19,90",
         "Imagem": ""
       },
       {
@@ -4373,7 +7370,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "61,95",
+        "Preço Venda (R$)": "59,99",
         "Imagem": ""
       },
       {
@@ -4597,8 +7594,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,13",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
       {
@@ -4606,8 +7603,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,10",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,13",
         "Imagem": ""
       },
       {
@@ -4707,6 +7704,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "1,52",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Anunciadora de Batalhas TemurTemur Battlecrier",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,74",
         "Imagem": ""
       },
       {
@@ -4930,8 +7936,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,05",
         "Imagem": ""
       },
       {
@@ -4939,8 +7945,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,05",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
         "Imagem": ""
       },
       {
@@ -4967,7 +7973,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,22",
+        "Preço Venda (R$)": "0,21",
         "Imagem": ""
       },
       {
@@ -4994,7 +8000,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "0,20",
+        "Preço Venda (R$)": "0,19",
         "Imagem": ""
       },
       {
@@ -5026,20 +8032,20 @@
       },
       {
         "Nome": "Arqueodruida ElfoElvish Archdruid",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "1,99",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Arqueodruida ElfoElvish Archdruid",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "2,00",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Arqueodruida ElfoElvish Archdruid",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,99",
         "Imagem": ""
       },
       {
@@ -5090,15 +8096,6 @@
       {
         "Nome": "Artesã MeticulosaMeticulous Artisan",
         "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": ""
-      },
-      {
-        "Nome": "Artesã MeticulosaMeticulous Artisan",
-        "Qualidade": "M",
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
@@ -5106,12 +8103,12 @@
         "Imagem": ""
       },
       {
-        "Nome": "Artesão BraçoluzGlint-Sleeve Artisan",
+        "Nome": "Artesã MeticulosaMeticulous Artisan",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,08",
+        "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
       {
@@ -5121,6 +8118,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Artesão BraçoluzGlint-Sleeve Artisan",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
         "Imagem": ""
       },
       {
@@ -5162,19 +8168,19 @@
       {
         "Nome": "Artista PerfurantePerforating Artist",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,25",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,65",
         "Imagem": ""
       },
       {
         "Nome": "Artista PerfurantePerforating Artist",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,65",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,25",
         "Imagem": ""
       },
       {
@@ -5273,7 +8279,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,24",
+        "Preço Venda (R$)": "0,09",
         "Imagem": ""
       },
       {
@@ -5282,7 +8288,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
+        "Preço Venda (R$)": "0,24",
         "Imagem": ""
       },
       {
@@ -5344,7 +8350,7 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
@@ -5416,8 +8422,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,50",
         "Imagem": ""
       },
       {
@@ -5425,8 +8431,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,50",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
         "Imagem": ""
       },
       {
@@ -5472,6 +8478,717 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Avalancheiros AkkisAkki Avalanchers",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Avaliador SibsigSibsig Appraiser",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Aventureira de RavenloftRavenloft Adventurer",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "1,67",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Avernal do InfernoInferno Hellion",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,11",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Avernal TectônicoTectonic Hellion",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,29",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Aviano Pena GélidaIcefeather Aven",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Ayara, Viúva do ReinoAyara, Widow of the RealmAyara, Rainha da FornalhaAyara, Furnace Queen",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,69",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Azarões AzaradosUnderfoot Underdogs",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Azucrim de BileBile Urchin",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,68",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baixas de GuerraCasualties of War",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baku de CeraWaxmane Baku",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baku de CrâniosSkullmane Baku",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baloth de DurkwoodDurkwood Baloth",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bandar AstutoWily Bandar",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,15",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bando de AguilhodontesNeedletooth Pack",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Banimento a LâminaBlade Banish",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Banquete dos EscaravelhosScarab Feast",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Banshee TrágicaTragic Banshee",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baral e Kari ZevBaral and Kari Zev",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,74",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barão da MorteDeath Baron",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "17,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barganha SombriaDark Bargain",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barreira de EspadasWall of Swords",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,07",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barreira ReluzenteGleaming Barrier",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barrete Vermelho EnfurecidoRaging Redcap",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barricada de CristalCrystal Barricade",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "5,89",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Barro PrimordialPrimal Clay",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Basílica OrzhovOrzhov Basilica",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,35",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Basilisco MaiorGreater Basilisk",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bastião de KarnKarn's Bastion",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "8,54",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Baú de TesouroTreasure Chest",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,59",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Belicista de KolaghanKolaghan Warmonger",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Berrolampo Feroz // ExtirparStormshriek Feral // Flush Out",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Berrolampo Feroz // ExtirparStormshriek Feral // Flush Out",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bestas de Carga DalkovanDalkovan Packbeasts",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,28",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bijuteria do ViajanteWayfarer's Bauble",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,95",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Biltre EmpreendedorEnterprising Scallywag",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,18",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Boi do Vale dos PilaresPillarfield Ox",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bola de CristalCrystal Ball",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bola de FogoFireball",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,48",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bola de FogoFireball",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bolsa DruídicaDruidic Satchel",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,99",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bomba de Fogo GoblinGoblin Firebomb",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bosque da Pétala SolarSunpetal Grove",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "11,69",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Botânico ViajanteTraveling Botanist",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,63",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Braceletes BlindadosBladed Bracers",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Braços de HadarArms of Hadar",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,81",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bradador SônicoSonic Shrieker",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brado do MamuteMammoth Bellow",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,28",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bravura dos BelisábiosBattlewise Valor",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brigada da Lâmina NoturnaNightblade Brigade",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brigada de ChoqueShock Brigade",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brontodonte AncestralAncient Brontodon",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brontodonte DestruidorThrashing Brontodon",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brumas OfuscantesObscuring Haze",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "7,69",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Brutamontes EscamadoScaled Hulk",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,08",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruto de Guerra VelozSprinting Warbrute",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruto Vende-EspadaSell-Sword Brute",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruxa do Coração AmargoBitterheart Witch",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bruxa Sanguinária VingadoraVengeful Bloodwitch",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "2,75",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bucaneiro da AeronauSkyship Buccaneer",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Bufão do EspículoSpike Jester",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Busca FrenéticaFrantic Search",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,27",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Buscachamas de AkoumAkoum Flameseeker",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Buscador da AuroraSunrise Seeker",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cabeça DeslizanteSlitherhead",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçador de ÉterAether Chaser",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cacador de TesourosTreasure Hunter",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,43",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçador SolícitoHelpful Hunter",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "7x",
+        "Preço Venda (R$)": "0,17",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçador VingadorAvenging Hunter",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "18,70",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçadora Celeste LeoninaLeonin Skyhunter",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçadora em SintoniaAttuned Hunter",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caçar os FracosHunt the Weak",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,04",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cachoeira dos EspinhosThornwood Falls",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Cadira, Convocadora dos PequenosCadira, Caller of the Small",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caldera Pyremaw",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "17,90",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caminho da AscendênciaPath of Ancestry",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,89",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Caminho da PazPath of Peace",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Campanha de RecrutamentoRecruitment Drive",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": ""
+      },
+      {
+        "Nome": "Campeã de IroasIroas's Champion",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,15",
         "Imagem": ""
       }
     ],
