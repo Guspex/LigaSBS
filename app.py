@@ -61,6 +61,23 @@ with st.status("🔄 Carregando dados da planilha...", expanded=True) as status:
 st.header("🔎 Buscar carta por nome")
 
 busca = st.text_input("Digite o nome (ou parte) da carta", "")
+if busca.strip():
+    busca_normalizada = busca.strip().lower()
+    resultado = []
+    for jogador in jogadores:
+        for carta in jogador.get("have", []):
+            if busca_normalizada in carta.get("Nome", "").lower():
+                resultado.append({
+                    "Jogador": jogador["nome"],
+                    "WhatsApp": jogador["whatsapp"],
+                    "Carta": carta["Nome"],
+                    "Qtd": carta.get("Quantidade", "")
+                })
+    if resultado:
+        st.success(f"Encontrado(s) {len(resultado)} resultado(s):")
+        st.dataframe(pd.DataFrame(resultado))
+    else:
+        st.warning("Nenhum jogador possui carta com esse nome.")
 
 # Estruturas auxiliares
 jogadores = []
@@ -129,24 +146,5 @@ for jogador in jogadores:
             if pode_trocar:
                 texto += f"\n- {len(pode_trocar)} carta(s) que você quer e ele tem: `{', '.join(pode_trocar)}`"
             st.markdown(texto)
-            
-
-if busca.strip():
-    busca_normalizada = busca.strip().lower()
-    resultado = []
-    for jogador in jogadores:
-        for carta in jogador.get("have", []):
-            if busca_normalizada in carta.get("Nome", "").lower():
-                resultado.append({
-                    "Jogador": jogador["nome"],
-                    "WhatsApp": jogador["whatsapp"],
-                    "Carta": carta["Nome"],
-                    "Qtd": carta.get("Quantidade", "")
-                })
-    if resultado:
-        st.success(f"Encontrado(s) {len(resultado)} resultado(s):")
-        st.dataframe(pd.DataFrame(resultado))
-    else:
-        st.warning("Nenhum jogador possui carta com esse nome.")
 
     st.markdown("---")
