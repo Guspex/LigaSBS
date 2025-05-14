@@ -52,14 +52,12 @@ st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
 
 # Carrega dados da planilha
 status = st.status("🔄 Carregando dados da planilha...")
-
 cliente = autenticar_planilha()
-planilha = cliente.open_by_url("URL DA PLANILHA")
+planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
 aba = planilha.get_worksheet(0)
 dados = aba.get_all_records()
-
-status.success("✅ Dados carregados com sucesso!")
-time.sleep(5)
+status.update(label="✅ Dados carregados com sucesso!", state="complete")
+time.sleep(3)
 status.empty()
 
 # =========== CAMPO DE BUSCA POR CARTA =============
