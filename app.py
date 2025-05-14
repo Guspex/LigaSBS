@@ -96,34 +96,44 @@ def carta_com_link_e_imagem(nome, url, img_url):
         f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
     )
 
-def tabela_html_cartas(cartas):
+def tabela_html_cartas(cartas, altura_px=250):
     if not cartas:
         return "<i>Nenhuma carta cadastrada.</i>"
-    colunas = []
-    if isinstance(cartas, pd.DataFrame):
-        colunas = cartas.columns
-    else:
-        colunas = list(cartas[0].keys())
-    # Você pode customizar as colunas exibidas aqui
     colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
-    # Ajusta caso nem toda carta tenha todos os campos
-    colunas = [c for c in colunas_desejadas if c in colunas]
-    html = '<table style="border-collapse:collapse;width:100%; background:#fafafd;">'
-    html += "<thead><tr>"
+    colunas = [c for c in colunas_desejadas if c in cartas[0]]
+    # Caixa container roxa igual à do Streamlit + scroll lateral custom
+    html = f"""
+    <div style="
+        border-radius: 11px;
+        border: 1.5px solid #e6e6ef;
+        background: #fff;
+        margin-bottom: 14px;
+        margin-top: 2px;
+        padding: 0px;
+        box-shadow: 0 2px 10px #0000000b, 0 0px 0px #fff;
+        overflow-x: auto;
+        overflow-y: auto;
+        height: {altura_px}px;
+        max-height: {altura_px}px;
+        ">
+      <table style='border-collapse:collapse; width:100%; font-family:"Segoe UI",Roboto,Arial,sans-serif; font-size:15px; background:#f7f8fa;'>
+        <thead>
+          <tr>
+    """
     for c in colunas:
-        html += f'<th style="border:1px solid #CCC; padding:6px 10px; background:#eee; font-size:15px;">{c}</th>'
+        html += f'<th style="border-bottom:2px solid #e6e6ef; color:#2e4a66; background:#f0f2fa; padding:6px 5px; text-align:left; font-weight:600;">{c}</th>'
     html += "</tr></thead><tbody>"
     for carta in cartas:
-        html += "<tr>"
+        html += "<tr style='background:#fff;'>"
         for c in colunas:
             if c == "Nome":
                 link = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
-                cell = f'<a href="{link}" target="_blank" style="color:#1976d2; text-decoration:none">{carta["Nome"]}</a>'
+                cell = f'<a href="{link}" target="_blank" style="color:#1976d2; text-decoration:none;font-weight:600;">{carta.get("Nome","")}</a>'
             else:
                 cell = carta.get(c, "-")
-            html += f'<td style="border:1px solid #CCC; padding:6px 10px; font-size:15px;">{cell}</td>'
+            html += f'<td style="padding:6px 5px; border-bottom:1px solid #e6e6ef; color:#222;">{cell}</td>'
         html += "</tr>"
-    html += "</tbody></table>"
+    html += "</tbody></table></div>"
     return html
 
 # ========== RESULTADO DA BUSCA, LOGO ABAIXO DO CAMPO ==========
