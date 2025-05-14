@@ -96,7 +96,7 @@ def carta_com_link_e_imagem(nome, url, img_url):
         f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
     )
 
-def tabela_html_cartas(cartas, altura_px=250):
+def tabela_html_cartas(cartas, altura_px=300):
     if not cartas:
         return "<i>Nenhuma carta cadastrada.</i>"
     colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
@@ -115,7 +115,7 @@ def tabela_html_cartas(cartas, altura_px=250):
         height: {altura_px}px;
         max-height: {altura_px}px;
         ">
-      <table style='border-collapse:collapse; width:100%; font-family:"Segoe UI",Roboto,Arial,sans-serif; font-size:15px; background:#f7f8fa;'>
+      <table style='border-collapse:collapse; width:100%; font-family:"Segoe UI",Roboto,Arial,sans-serif; font-size:10px; background:#f7f8fa;'>
         <thead>
           <tr>
     """
