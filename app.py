@@ -135,10 +135,15 @@ def tabela_html_cartas(cartas, altura_px=250):
         for c in colunas:
             if c == "Nome":
                 link = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
-                cell = f'<a href="{link}" target="_blank" style="color:#1976d2; text-decoration:none;font-weight:600;">{carta.get("Nome","")}</a>'
+                cell = f'<a href="{link}" target="_blank" style="color:#1976d2;text-decoration:none;font-weight:600;min-width:180px;display:inline-block;line-height:1.3;word-break:break-word;">{carta.get("Nome","")}</a>'
+                tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;vertical-align:middle;word-break:break-word;min-width:180px;max-width:400px;width:33%;'
+            elif c == "Preço Venda (R$)":
+                cell = carta.get(c, "-")
+                tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;text-align:right;width:90px;max-width:120px;'
             else:
                 cell = carta.get(c, "-")
-            html += f'<td style="padding:6px 5px; border-bottom:1px solid #e6e6ef; color:#222;">{cell}</td>'
+                tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;width:66px;max-width:88px;text-align:center;'
+            html += f'<td style="{tdstyle}">{cell}</td>'
         html += "</tr>"
     html += "</tbody></table></div>"
     return html
