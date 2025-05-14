@@ -110,15 +110,14 @@ def tabela_html_cartas(cartas, altura_px=350):
     """
     for c in colunas:
         if c == "Nome":
-            link = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
-            cell = f'<a href="{link}" target="_blank" style="color:#1976d2;text-decoration:none;font-weight:600;min-width:130px;display:inline-block;line-height:1.3;">{carta.get("Nome","")}</a>'
-            tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;vertical-align:middle;min-width:130px;max-width:340px;'
+            width = "min-width:240px;max-width:400px;width:33%;"
+        elif c == "Preço Venda (R$)":
+            width = "width:90px;max-width:120px;"
         else:
-            cell = carta.get(c, "-")
-            tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;width:66px;max-width:88px;text-align:center;'
-        html += f'<td style="{tdstyle}">{cell}</td>'
-        html += "</tr>"
-    html += "</tbody></table></div></div>"
+            width = "width:66px;max-width:88px;"
+        html += f'<th style="border-bottom:2px solid #e6e6ef;color:#2e4a66;background:#f0f2fa;padding:6px 5px;text-align:left;font-weight:600;position:sticky;top:0;z-index:2;{width}">{c}</th>'
+    html += "</tr></thead></table>"
+    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;"><table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;table-layout:fixed;'><tbody>"""
     for carta in cartas:
         html += "<tr style='background:#fff;'>"
         for c in colunas:
