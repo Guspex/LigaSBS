@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import gspread
+import time
 from oauth2client.service_account import ServiceAccountCredentials
 
 
@@ -56,28 +57,11 @@ with st.status("🔄 Carregando dados da planilha...", expanded=True) as status:
     aba = planilha.get_worksheet(0)
     dados = aba.get_all_records()
     status.update(label="✅ Dados carregados com sucesso!", state="complete")
+    time.sleep(3)
 
 # =========== CAMPO DE BUSCA POR CARTA =============
 st.header("🔎 Buscar carta por nome")
-
 busca = st.text_input("Digite o nome (ou parte) da carta", "")
-if busca.strip():
-    busca_normalizada = busca.strip().lower()
-    resultado = []
-    for jogador in jogadores:
-        for carta in jogador.get("have", []):
-            if busca_normalizada in carta.get("Nome", "").lower():
-                resultado.append({
-                    "Jogador": jogador["nome"],
-                    "WhatsApp": jogador["whatsapp"],
-                    "Carta": carta["Nome"],
-                    "Qtd": carta.get("Quantidade", "")
-                })
-    if resultado:
-        st.success(f"Encontrado(s) {len(resultado)} resultado(s):")
-        st.dataframe(pd.DataFrame(resultado))
-    else:
-        st.warning("Nenhum jogador possui carta com esse nome.")
 
 # Estruturas auxiliares
 jogadores = []
@@ -98,6 +82,25 @@ for linha in dados:
         "have": lista_have,
         "want": lista_want
     })
+
+# ========== RESULTADO DA BUSCA, LOGO ABAIXO DO CAMPO ==========
+if busca.strip():
+    busca_normalizada = busca.strip().lower()
+    resultado = []
+    for jogador in jogadores:
+        for carta in jogador.get("have", []):
+            if busca_normalizada in carta.get("Nome", "").lower():
+                resultado.append({
+                    "Jogador": jogador["nome"],
+                    "WhatsApp": jogador["whatsapp"],
+                    "Carta": carta["Nome"],
+                    "Qtd": carta.get("Quantidade", "")
+                })
+    if resultado:
+        st.success(f"Encontrado(s) {len(resultado)} resultado(s):")
+        st.dataframe(pd.DataFrame(resultado))
+    else:
+        st.warning("Nenhum jogador possui carta com esse nome.")
 
 # Mostra dados por jogador
 for jogador in jogadores:
