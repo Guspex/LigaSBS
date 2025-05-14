@@ -141,6 +141,10 @@ for jogador in jogadores:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
             df_have = pd.DataFrame(jogador["have"])
+            for i, row in df_have.iterrows():
+                nome = row['Nome']
+                link = row.get("Link Detalhe") or row.get("Imagem") or "#"
+                df_have.at[i, 'Nome'] = f"[{nome}]({link})"
             st.dataframe(df_have)
         else:
             st.info("Nenhuma carta cadastrada.")
