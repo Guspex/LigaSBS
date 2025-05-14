@@ -242,7 +242,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        &copy; 2025 Todos os direitos reservados. Desenvolvido por André Dienes Friedrich. WhatsApp: <a href="https://wa.me/5547996280770" style="color:#999999;text-decoration:none;">+55 47 99628-0770</a><br>
+        &copy; 2025 Projeto de código aberto, disponível sob a licença MIT. Desenvolvido por André Dienes Friedrich. WhatsApp: <a href="https://wa.me/5547996280770" style="color:#999999;text-decoration:none;">+55 47 99628-0770</a><br>
     </div>
     """,
     unsafe_allow_html=True
