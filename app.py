@@ -200,7 +200,8 @@ for jogador in jogadores:
     with col2:
         st.markdown("**Cartas desejadas (Want):**")
         if jogador["want"]:
-            st.dataframe(pd.DataFrame(jogador["want"]))
+            html = tabela_html_cartas(jogador["want"])
+            st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta desejada cadastrada.")
 
