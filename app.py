@@ -115,7 +115,7 @@ def tabela_html_cartas(cartas, altura_px=300):
         height: {altura_px}px;
         max-height: {altura_px}px;
         ">
-      <table style='border-collapse:collapse; width:100%; font-family:"Segoe UI",Roboto,Arial,sans-serif; font-size:10px; background:#f7f8fa;'>
+      <table style='border-collapse:collapse; width:100%; font-family:"Segoe UI",Roboto,Arial,sans-serif; font-size:12px; background:#f7f8fa;'>
         <thead>
           <tr>
     """
@@ -129,7 +129,7 @@ def tabela_html_cartas(cartas, altura_px=300):
         html += f'<th style="border-bottom:2px solid #e6e6ef;color:#2e4a66;background:#f0f2fa;padding:6px 5px;text-align:left;font-weight:600;position:sticky;top:0;z-index:2;{width}">{c}</th>'
     html += "</tr></thead></table>"
     # Scroll só no corpo
-    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;"><table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:15px;table-layout:fixed;'><tbody>"""
+    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;"><table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;table-layout:fixed;'><tbody>"""
     for carta in cartas:
         html += "<tr style='background:#fff;'>"
         for c in colunas:
