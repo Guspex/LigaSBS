@@ -96,6 +96,36 @@ def carta_com_link_e_imagem(nome, url, img_url):
         f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
     )
 
+def tabela_html_cartas(cartas):
+    if not cartas:
+        return "<i>Nenhuma carta cadastrada.</i>"
+    colunas = []
+    if isinstance(cartas, pd.DataFrame):
+        colunas = cartas.columns
+    else:
+        colunas = list(cartas[0].keys())
+    # Você pode customizar as colunas exibidas aqui
+    colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
+    # Ajusta caso nem toda carta tenha todos os campos
+    colunas = [c for c in colunas_desejadas if c in colunas]
+    html = '<table style="border-collapse:collapse;width:100%; background:#fafafd;">'
+    html += "<thead><tr>"
+    for c in colunas:
+        html += f'<th style="border:1px solid #CCC; padding:6px 10px; background:#eee; font-size:15px;">{c}</th>'
+    html += "</tr></thead><tbody>"
+    for carta in cartas:
+        html += "<tr>"
+        for c in colunas:
+            if c == "Nome":
+                link = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
+                cell = f'<a href="{link}" target="_blank" style="color:#1976d2; text-decoration:none">{carta["Nome"]}</a>'
+            else:
+                cell = carta.get(c, "-")
+            html += f'<td style="border:1px solid #CCC; padding:6px 10px; font-size:15px;">{cell}</td>'
+        html += "</tr>"
+    html += "</tbody></table>"
+    return html
+
 # ========== RESULTADO DA BUSCA, LOGO ABAIXO DO CAMPO ==========
 if busca.strip():
     busca_normalizada = busca.strip().lower()
@@ -140,12 +170,8 @@ for jogador in jogadores:
     with col1:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
-            df_have = pd.DataFrame(jogador["have"])
-            for i, row in df_have.iterrows():
-                nome = row['Nome']
-                link = row.get("Link Detalhe") or row.get("Imagem") or "#"
-                df_have.at[i, 'Nome'] = f"[{nome}]({link})"
-            st.dataframe(df_have)
+            html = tabela_html_cartas(jogador["have"])
+            st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta cadastrada.")
 
