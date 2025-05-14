@@ -141,7 +141,7 @@ for jogador in jogadores:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
             df_have = pd.DataFrame(jogador["have"])
-            df_have["link"] = = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
+            df_have["link"] = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
             st.dataframe(df_have)
         else:
             st.info("Nenhuma carta cadastrada.")
