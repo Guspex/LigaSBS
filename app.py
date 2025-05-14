@@ -101,48 +101,13 @@ def tabela_html_cartas(cartas, altura_px=350):
         return "<i>Nenhuma carta cadastrada.</i>"
     colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
     colunas = [c for c in colunas_desejadas if c in cartas[0]]
-
     html = f"""
-    <style>
-        /* Tooltip container */
-        .tooltip {{
-            position: relative;
-            display: inline-block;
-            cursor: pointer;
-            color: #1976d2;
-            font-weight: 600;
-            text-decoration: none;
-        }}
-
-        /* Tooltip image */
-        .tooltip .tooltip-img {{
-            visibility: hidden;
-            width: 160px;
-            height: auto;
-            background-color: #fff;
-            border: 1px solid #ccc;
-            border-radius: 6px;
-            box-shadow: 1px 1px 10px rgba(0,0,0,0.2);
-            position: absolute;
-            z-index: 100;
-            top: 100%; /* below the text */
-            left: 50%;
-            margin-left: -80px; /* center horizontally */
-            padding: 5px;
-        }}
-
-        /* Show the tooltip image on hover */
-        .tooltip:hover .tooltip-img {{
-            visibility: visible;
-        }}
-    </style>
-
     <div style="border-radius:11px;border:1.5px solid #e6e6ef;box-shadow:0 2px 10px #0001;background:#fff;margin-bottom:14px;margin-top:2px;padding:0px;">
-      <table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;background:#f7f8fa;table-layout:fixed;'>
-        <thead>
-          <tr>
+      <div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:auto;">
+        <table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;background:#f7f8fa;table-layout:fixed;'>
+          <thead>
+            <tr>
     """
-
     for c in colunas:
         if c == "Nome":
             width = "min-width:240px;max-width:400px;width:33%;"
@@ -151,27 +116,14 @@ def tabela_html_cartas(cartas, altura_px=350):
         else:
             width = "width:66px;max-width:88px;"
         html += f'<th style="border-bottom:2px solid #e6e6ef;color:#2e4a66;background:#f0f2fa;padding:6px 5px;text-align:left;font-weight:600;position:sticky;top:0;z-index:2;{width}">{c}</th>'
-    html += "</tr></thead><tbody style='overflow-y:auto; display:block; max-height:{altura_px}px;'>"
-
-    # Corrigir para que o tbody possa rolar e alinhar as colunas
-    html = f"""
-            <div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;">
-            <tbody style=" ... ">
-            """
-
+    html += "</tr></thead></table>"
+    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;"><table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;table-layout:fixed;'><tbody>"""
     for carta in cartas:
-        html += "<tr style='background:#fff; display:table; width:100%; table-layout:fixed;'>"
+        html += "<tr style='background:#fff;'>"
         for c in colunas:
             if c == "Nome":
                 link = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
-                img_url = carta.get("Imagem", "")
-                # Nome com tooltip que mostra a miniatura
-                cell = f'''
-                <a href="{link}" target="_blank" class="tooltip" style="min-width:180px;display:inline-block;line-height:1.3;word-break:break-word;">
-                    {carta.get("Nome","")}
-                    {f'<img src="{img_url}" class="tooltip-img">' if img_url else ''}
-                </a>
-                '''
+                cell = f'<a href="{link}" target="_blank" style="color:#1976d2;text-decoration:none;font-weight:600;min-width:180px;display:inline-block;line-height:1.3;word-break:break-word;">{carta.get("Nome","")}</a>'
                 tdstyle = 'padding:6px 5px;border-bottom:1px solid #e6e6ef;color:#222;vertical-align:middle;word-break:break-word;min-width:180px;max-width:400px;width:33%;'
             elif c == "Preço Venda (R$)":
                 cell = carta.get(c, "-")
@@ -229,7 +181,7 @@ for jogador in jogadores:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
             html = tabela_html_cartas(jogador["have"])
-            st.markdown(tabela_html_cartas(jogador["have"], altura_px=350), unsafe_allow_html=True)
+            st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta cadastrada.")
 
@@ -237,7 +189,7 @@ for jogador in jogadores:
         st.markdown("**Cartas desejadas (Want):**")
         if jogador["want"]:
             html = tabela_html_cartas(jogador["want"])
-            st.markdown(tabela_html_cartas(jogador["want"], altura_px=350), unsafe_allow_html=True)
+            st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta desejada cadastrada.")
 
