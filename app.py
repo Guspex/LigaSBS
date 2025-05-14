@@ -110,7 +110,7 @@ def tabela_html_cartas(cartas, altura_px=350):
     """
     for c in colunas:
         if c == "Nome":
-            width = "min-width:240px;max-width:400px;width:33%;"
+            width = "min-width:340px;max-width:400px;width:33%;"
         elif c == "Preço Venda (R$)":
             width = "width:90px;max-width:120px;"
         else:
