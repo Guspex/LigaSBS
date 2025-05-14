@@ -120,23 +120,10 @@ def tabela_html_cartas(cartas, altura_px=250):
           <tr>
     """
     for c in colunas:
-        html += f'''
-            <th style="
-                border-bottom:2px solid #e6e6ef;
-                color:#2e4a66;
-                background:#f0f2fa;
-                padding:6px 5px;
-                text-align:left;
-                font-weight:600;
-                position:relative;
-                z-index:2;
-            ">{c}</th>'''
+        html += f'''<th style="border-bottom:2px solid #e6e6ef;color:#2e4a66;background:#f0f2fa;padding:6px 5px;text-align:left;font-weight:600;position:relative;z-index:2;">{c}</th>'''
     html += "</tr></thead></table>"
     # Scroll só no corpo
-    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;">
-    <table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:15px;table-layout:fixed;'>
-      <tbody>
-    """
+    html += f"""<div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;"><table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:15px;table-layout:fixed;'><tbody>"""
     for carta in cartas:
         html += "<tr style='background:#fff;'>"
         for c in colunas:
