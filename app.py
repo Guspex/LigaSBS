@@ -99,7 +99,7 @@ def carta_com_link_e_imagem(nome, url, img_url):
 def tabela_html_cartas(cartas, altura_px=250):
     if not cartas:
         return "<i>Nenhuma carta cadastrada.</i>"
-    colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
+    colunas_desejadas = ["Nome", "Quant", "Qualidade", "Extra", "Idioma", "Preço (R$)"]
     colunas = [c for c in colunas_desejadas if c in cartas[0]]
     html = f"""
     <div style="
