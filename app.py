@@ -154,7 +154,10 @@ def tabela_html_cartas(cartas, altura_px=350):
     html += "</tr></thead><tbody style='overflow-y:auto; display:block; max-height:{altura_px}px;'>"
 
     # Corrigir para que o tbody possa rolar e alinhar as colunas
-    html = html.format(altura_px=altura_px)
+    html = f"""
+            <div style="max-height:{altura_px}px;overflow-y:auto;overflow-x:hidden;">
+            <tbody style=" ... ">
+            """
 
     for carta in cartas:
         html += "<tr style='background:#fff; display:table; width:100%; table-layout:fixed;'>"
