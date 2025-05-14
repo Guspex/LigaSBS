@@ -224,3 +224,26 @@ for jogador in jogadores:
             st.markdown(texto)
 
     st.markdown("---")
+st.markdown(
+    """
+    <style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #f0f2f6;
+        color: #999999;
+        text-align: center;
+        padding: 10px 0;
+        font-size: 14px;
+        border-top: 1px solid #e6e6ef;
+        z-index: 1000;
+    }
+    </style>
+    <div class="footer">
+        &copy; 2025 Todos os direitos reservados. Desenvolvido por André Dienes Friedrich. WhatsApp: <a href="https://wa.me/5547996280770" style="color:#999999;text-decoration:none;">+55 47 99628-0770</a><br>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
