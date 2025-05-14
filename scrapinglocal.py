@@ -2,6 +2,7 @@
 import json
 import time
 import gspread
+import requests
 from oauth2client.service_account import ServiceAccountCredentials
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,6 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+from lxml import html
 
 # Configuração do Google Sheets (ou substitua por lista manual para testar)
 def autenticar_planilha():
@@ -52,7 +54,31 @@ def extrair_cartas_ligamagic(url, max_paginas=25):
         for linha in linhas:
             colunas = linha.find_all("td")
             if len(colunas) >= 11:
-                nome = colunas[3].get_text(strip=True)
+                div_nome = colunas[3].find("div", attrs={"data-tooltip": True})
+                nome_pt = ""
+                nome_en = ""
+                if div_nome:
+                    nomes = div_nome.find_all("a")
+                    if len(nomes) >= 2:
+                        nome_pt = nomes[0].get_text(strip=True)
+                        nome_en = nomes[1].get_text(strip=True)
+                    elif len(nomes) == 1:
+                        nome_pt = nomes[0].get_text(strip=True)
+
+                if nome_en:
+                    nome = f"{nome_pt} / {nome_en}"
+                else:
+                    nome = nome_pt
+                link_carta_tag = colunas[3].find("a")
+                carta_url = ""
+                if link_carta_tag and link_carta_tag.get("href"):
+                    raw_href = link_carta_tag.get("href")
+                    if raw_href.startswith("http"):
+                        carta_url = raw_href
+                    elif raw_href.startswith("/"):
+                        carta_url = "https://ligamagic.com.br" + raw_href
+                    else:  # Começa com './' ou não tem barra, típico da LigaMagic
+                        carta_url = "https://ligamagic.com.br/" + raw_href.lstrip("./")
                 extra = colunas[4].get_text(strip=True)
                 idioma = colunas[5].get_text(strip=True)
                 qualidade = colunas[6].get_text(strip=True)
@@ -64,11 +90,13 @@ def extrair_cartas_ligamagic(url, max_paginas=25):
                     "Extra": extra,
                     "Idioma": idioma,
                     "Quantidade": quantidade,
-                    "Preço Venda (R$)": preco_venda
+                    "Preço Venda (R$)": preco_venda,
+                    "Imagem": carta_url
                 })
         page += 1
     driver.quit()
     return cartas
+
 
 if __name__ == "__main__":
     # --- Config Google Sheets: ---

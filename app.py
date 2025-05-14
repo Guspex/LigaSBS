@@ -83,6 +83,19 @@ for linha in dados:
         "want": lista_want
     })
 
+def carta_com_link_e_imagem(nome, url, img_url):
+    if not url:
+        return nome  # se não houver link, só o nome
+    return (
+        f'<a href="{url}" target="_blank" '
+        f'style="text-decoration:none; color:#1967d2;">'
+        f'{nome}'
+        f'</a>'
+        f'&nbsp;<img src="{img_url}" style="height:42px; margin-bottom:-10px; box-shadow:1px 1px 7px #aaa; vertical-align:middle;">'
+        if img_url else
+        f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
+    )
+
 # ========== RESULTADO DA BUSCA, LOGO ABAIXO DO CAMPO ==========
 if busca.strip():
     busca_normalizada = busca.strip().lower()
@@ -98,7 +111,21 @@ if busca.strip():
                 })
     if resultado:
         st.success(f"Encontrado(s) {len(resultado)} resultado(s):")
-        st.dataframe(pd.DataFrame(resultado))
+        for item in resultado:
+            st.markdown(
+                carta_com_link_e_imagem(
+                    item["Carta"],
+                    item.get("Link Detalhe") or item.get("Imagem") or "#",  # preferencialmente Link Detalhe, depois Imagem
+                    item.get("Imagem", "")
+                ),
+                unsafe_allow_html=True,
+            )
+            st.markdown(
+                f'<b>Jogador:</b> {item["Jogador"]}<br>'
+                f'<b>Whatsapp:</b> {item["WhatsApp"]}<br>'
+                f'<b>Qtd:</b> {item["Qtd"]}<hr>',
+                unsafe_allow_html=True
+            )
     else:
         st.warning("Nenhum jogador possui carta com esse nome.")
 
@@ -113,7 +140,18 @@ for jogador in jogadores:
     with col1:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
-            st.dataframe(pd.DataFrame(jogador["have"]))
+            for carta in jogador["have"]:
+                st.markdown(
+                    carta_com_link_e_imagem(
+                        carta["Nome"],
+                        carta.get("Link Detalhe") or carta.get("Imagem") or "#",
+                        carta.get("Imagem", "")
+                    ),
+                    unsafe_allow_html=True,
+                )
+                st.markdown(
+                    f'<b>Quantidade:</b> {carta.get("Quantidade", "")}<hr>',
+                    unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta cadastrada.")
 
