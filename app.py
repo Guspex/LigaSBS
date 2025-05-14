@@ -120,18 +120,7 @@ def tabela_html_cartas(cartas, altura_px=250):
           <tr>
     """
     for c in colunas:
-        html += f'''
-            <th style="
-                border-bottom:2px solid #e6e6ef;
-                color:#2e4a66;
-                background:#f0f2fa;
-                padding:6px 5px;
-                text-align:left;
-                font-weight:600;
-                position: sticky;
-                top: 0;
-                z-index: 2;
-            ">{c}</th>'''
+        html += f'<th style="border-bottom:2px solid #e6e6ef; color:#2e4a66; background:#f0f2fa; padding:6px 5px; text-align:left; font-weight:600;">{c}</th>'
     html += "</tr></thead><tbody>"
     for carta in cartas:
         html += "<tr style='background:#fff;'>"
