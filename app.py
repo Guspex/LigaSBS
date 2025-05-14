@@ -103,7 +103,7 @@ def tabela_html_cartas(cartas, altura_px=350):
     colunas = [c for c in colunas_desejadas if c in cartas[0]]
     html = f"""
     <div style="border-radius:11px;border:1.5px solid #e6e6ef;box-shadow:0 2px 10px #0001;background:#fff;margin-bottom:14px;margin-top:2px;padding:0px;">
-      <div style="max-height:{altura_px+15}px;overflow-y:hidden;overflow-x:auto;">
+      <div style="max-height:{altura_px-5}px;overflow-y:hidden;overflow-x:auto;">
         <table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;background:#f7f8fa;table-layout:fixed;'>
           <thead>
             <tr>
