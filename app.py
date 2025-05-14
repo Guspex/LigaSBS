@@ -141,18 +141,8 @@ for jogador in jogadores:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
             df_have = pd.DataFrame(jogador["have"])
-            st.dataframe(df_have)  # grade tradicional
-            
-            st.markdown("**Links detalhados:**")
-            for idx, carta in df_have.iterrows():
-                nome = carta["Nome"]
-                url = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
-                imagem = carta.get("Imagem", "")
-                st.markdown(
-                    f'<a href="{url}" target="_blank" style="color:#1967d2;"><b>{nome}</b></a>'
-                    f'{"&nbsp;<img src=\"%s\" style=\"height:42px; margin-bottom:-10px; box-shadow:1px 1px 7px #aaa; vertical-align:middle;\">"%imagem if imagem else ""}',
-                    unsafe_allow_html=True,
-                )
+            df_have["link"] = = carta.get("Link Detalhe") or carta.get("Imagem") or "#"
+            st.dataframe(df_have)
         else:
             st.info("Nenhuma carta cadastrada.")
 
