@@ -99,17 +99,20 @@ def carta_com_link_e_imagem(nome, url, img_url):
         if img_url else
         f'<a href="{url}" target="_blank" style="text-decoration:none; color:#1967d2;">{nome}</a>'
     )
-
-def tabela_html_cartas(cartas, altura_px=350):
+colunas_desejadas_have = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
+colunas_desejadas_want = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma"]
+def tabela_html_cartas(cartas, altura_px=350, colunas_desejadas=None):
     if not cartas:
         return "<i>Nenhuma carta cadastrada.</i>"
-    colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
+    # Se não for especificado, usa todas as colunas inclusive preço
+    if colunas_desejadas is None:
+        colunas_desejadas = ["Nome", "Quantidade", "Qualidade", "Extra", "Idioma", "Preço Venda (R$)"]
     colunas = [c for c in colunas_desejadas if c in cartas[0]]
     html = f"""
     <div style="border-radius:15px;border:1.5px solid #e6e6ef;box-shadow:0 2px 10px #0001;background:#fff;margin-bottom:14px;margin-top:2px;padding:0px;overflow: hidden;box-sizing: border-box;max-width: 100%;">
-      <div style="max-height:{altura_px+55}px;overflow-y:hidden;overflow-x:auto;border-radius:15px;padding-bottom: 6px;box-sizing: border-box;">
+        <div style="max-height:{altura_px+55}px;overflow-y:hidden;overflow-x:auto;border-radius:15px;padding-bottom: 6px;box-sizing: border-box;">
         <table style='border-collapse:collapse;width:100%;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;background:#f7f8fa;table-layout:fixed;'>
-          <thead>
+            <thead>
             <tr>
     """
     for c in colunas:
@@ -184,7 +187,7 @@ for jogador in jogadores:
     with col1:
         st.markdown("**Cartas disponíveis (Have):**")
         if jogador["have"]:
-            html = tabela_html_cartas(jogador["have"])
+            html = tabela_html_cartas(jogador["have"], colunas_desejadas=colunas_desejadas_have)
             st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta cadastrada.")
@@ -192,7 +195,7 @@ for jogador in jogadores:
     with col2:
         st.markdown("**Cartas desejadas (Want):**")
         if jogador["want"]:
-            html = tabela_html_cartas(jogador["want"])
+            html = tabela_html_cartas(jogador["want"], colunas_desejadas=colunas_desejadas_want)
             st.markdown(html, unsafe_allow_html=True)
         else:
             st.info("Nenhuma carta desejada cadastrada.")

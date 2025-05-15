@@ -1,4 +1,3 @@
-# scraping_local_para_json.py
 import json
 import time
 import gspread
@@ -13,7 +12,6 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 from lxml import html
 
-# Configuração do Google Sheets (ou substitua por lista manual para testar)
 def autenticar_planilha():
     escopo = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
     creds = ServiceAccountCredentials.from_json_keyfile_name("credenciais_google.json", escopo)
@@ -77,7 +75,7 @@ def extrair_cartas_ligamagic(url, max_paginas=25):
                         carta_url = raw_href
                     elif raw_href.startswith("/"):
                         carta_url = "https://ligamagic.com.br" + raw_href
-                    else:  # Começa com './' ou não tem barra, típico da LigaMagic
+                    else:  
                         carta_url = "https://ligamagic.com.br/" + raw_href.lstrip("./")
                 extra = colunas[4].get_text(strip=True)
                 idioma = colunas[5].get_text(strip=True)
