@@ -6,8 +6,6 @@ import re
 import time
 from oauth2client.service_account import ServiceAccountCredentials
 
-
-
 # ======================== CONFIGURAÇÕES =============================
 
 # Autenticação com Google Sheets
@@ -50,7 +48,6 @@ def extrair_cartas_ligamagic(nome_jogador, tipo='have'):
 
 st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
 st.title("Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
-
 
 # Carrega dados da planilha
 placeholder = st.empty()
