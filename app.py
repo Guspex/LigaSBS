@@ -60,10 +60,14 @@ with colL:
 placeholder = st.empty()
 placeholder.info("🔄 Carregando dados da planilha...")
 
-cliente = autenticar_planilha()
-planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
-aba = planilha.get_worksheet(0)
-dados = aba.get_all_records()
+@st.cache_data(ttl=300)  # 5 minutos
+def carregar_dados():
+    cliente = autenticar_planilha()
+    planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
+    aba = planilha.get_worksheet(0)
+    return aba.get_all_records()
+
+dados = carregar_dados()
 
 placeholder.success("✅ Dados carregados com sucesso!")
 time.sleep(3)
