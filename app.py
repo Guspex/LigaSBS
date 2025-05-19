@@ -1,4 +1,3 @@
-from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 import streamlit as st
 import pandas as pd
 import json
@@ -6,6 +5,8 @@ import gspread
 import re
 import time
 from oauth2client.service_account import ServiceAccountCredentials
+
+
 
 # ======================== CONFIGURAÇÕES =============================
 
@@ -48,14 +49,14 @@ def extrair_cartas_ligamagic(nome_jogador, tipo='have'):
 # ======================== APP STREAMLIT =============================
 
 st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
-st.title("Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
+st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
 
 # Carrega dados da planilha
 placeholder = st.empty()
 placeholder.info("🔄 Carregando dados da planilha...")
 
 cliente = autenticar_planilha()
-planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit?gid=0#gid=0")
+planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
 aba = planilha.get_worksheet(0)
 dados = aba.get_all_records()
 
