@@ -49,6 +49,12 @@ def extrair_cartas_ligamagic(nome_jogador, tipo='have'):
 # ======================== APP STREAMLIT =============================
 
 st.set_page_config(page_title="Troca de Cartas Magic", layout="wide")
+col1, col2 = st.columns([4, 1])
+with col1:
+    st.title("Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
+
+with col2:
+    st.image("logo-figurativa-a-toca.webp", width=80)
 st.title("💬 Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
 
 # Carrega dados da planilha
