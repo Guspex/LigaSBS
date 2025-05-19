@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import gspread
+import re
 import time
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -180,7 +181,11 @@ if busca.strip():
 for jogador in jogadores:
     st.subheader(f"🧙 {jogador['nome']}")
     if jogador['whatsapp']:
-        st.write(f"📱 WhatsApp: `{jogador['whatsapp']}`")
+        numero = re.sub(r'\D', '', jogador['whatsapp'])
+        if not numero.startswith('55'):
+            numero = f'55{numero}'
+        link_whatsapp = f"https://wa.me/{numero}"
+        st.write(f"📱 WhatsApp: [{jogador['whatsapp']}]({link_whatsapp})")
 
     col1, col2 = st.columns(2)
 
