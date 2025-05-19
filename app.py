@@ -54,7 +54,7 @@ with colT:
     st.title("Plataforma de Troca e Venda de Cartas - Magic: The Gathering")
 
 with colL:
-    st.image("logo-figurativa-a-toca.webp", width=160)
+    st.image("logo-figurativa-a-toca.png", width=160)
 
 # Carrega dados da planilha
 placeholder = st.empty()
