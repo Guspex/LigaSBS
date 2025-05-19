@@ -55,7 +55,7 @@ placeholder = st.empty()
 placeholder.info("🔄 Carregando dados da planilha...")
 
 cliente = autenticar_planilha()
-planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
+planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit?gid=0#gid=0")
 aba = planilha.get_worksheet(0)
 dados = aba.get_all_records()
 
