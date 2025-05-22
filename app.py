@@ -6,8 +6,6 @@ import re
 import time
 from oauth2client.service_account import ServiceAccountCredentials
 
-
-
 # ======================== CONFIGURAÇÕES =============================
 
 # Autenticação com Google Sheets
@@ -62,7 +60,12 @@ placeholder.info("🔄 Carregando dados da planilha...")
 
 @st.cache_data(ttl=300)  # 5 minutos
 def carregar_dados():
-    cliente = autenticar_planilha()
+    try:
+        cliente = autenticar_planilha()
+        st.write("✅ Autenticado com Google Sheets.")
+    except Exception as e:
+        st.error(f"Erro ao autenticar: {e}")
+        st.stop()
     planilha = cliente.open_by_url("https://docs.google.com/spreadsheets/d/1FmicnHU9caYH0NrxO1W49OyyJsfu-vYTKd9rzkyzZ7E/edit#gid=0")
     aba = planilha.get_worksheet(0)
     return aba.get_all_records()
