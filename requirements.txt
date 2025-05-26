@@ -5,3 +5,7 @@ pandas==2.2.2
 beautifulsoup4==4.12.3
 requests==2.32.2
 selenium==4.20.0
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
