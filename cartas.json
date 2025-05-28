@@ -123,19 +123,19 @@
       {
         "Nome": "Angra Tranquila / Tranquil Cove",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,27",
+        "Preço Venda (R$)": "0,13",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=tdm"
       },
       {
         "Nome": "Angra Tranquila / Tranquil Cove",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,13",
+        "Preço Venda (R$)": "0,27",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=tdm"
       },
       {
@@ -351,7 +351,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,44",
+        "Preço Venda (R$)": "1,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stroke of Midnight&ed=fdn"
       },
       {
@@ -468,7 +468,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,16",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helpful Hunter&ed=fdn"
       },
       {
@@ -629,7 +629,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Focus the Mind&ed=tdm"
       },
@@ -638,7 +638,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Focus the Mind&ed=tdm"
       },
@@ -843,19 +843,19 @@
       {
         "Nome": "Determinação de Sarkhan / Sarkhan's Resolve",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,35",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sarkhan's Resolve&ed=tdm"
       },
       {
         "Nome": "Determinação de Sarkhan / Sarkhan's Resolve",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sarkhan's Resolve&ed=tdm"
       },
       {
@@ -879,19 +879,19 @@
       {
         "Nome": "Devota Abzan / Abzan Devotee",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,45",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,14",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abzan Devotee&ed=tdm"
       },
       {
         "Nome": "Devota Abzan / Abzan Devotee",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,14",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,45",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abzan Devotee&ed=tdm"
       },
       {
@@ -942,15 +942,6 @@
       {
         "Nome": "Dorsopardo Temur / Temur Tawnyback",
         "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temur Tawnyback&ed=tdm"
-      },
-      {
-        "Nome": "Dorsopardo Temur / Temur Tawnyback",
-        "Qualidade": "NM",
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
@@ -963,6 +954,15 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temur Tawnyback&ed=tdm"
+      },
+      {
+        "Nome": "Dorsopardo Temur / Temur Tawnyback",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temur Tawnyback&ed=tdm"
       },
@@ -1017,7 +1017,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,16",
+        "Preço Venda (R$)": "4,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Syphon Mind&ed=cm2"
       },
       {
@@ -1068,19 +1068,19 @@
       {
         "Nome": "Engenheira do Risco Celeste / Skystreak Engineer",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,30",
+        "Preço Venda (R$)": "0,11",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Skystreak Engineer&ed=dft"
       },
       {
         "Nome": "Engenheira do Risco Celeste / Skystreak Engineer",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,11",
+        "Preço Venda (R$)": "0,30",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Skystreak Engineer&ed=dft"
       },
       {
@@ -1115,7 +1115,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,19",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Veteran Ice Climber&ed=tdm"
       },
@@ -1124,7 +1124,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,19",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Veteran Ice Climber&ed=tdm"
       },
@@ -1160,7 +1160,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sagu Pummeler&ed=tdm"
       },
@@ -1169,7 +1169,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sagu Pummeler&ed=tdm"
       },
@@ -1404,7 +1404,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,22",
+        "Preço Venda (R$)": "0,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abundant Maw&ed=inr"
       },
       {
@@ -1683,7 +1683,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,94",
+        "Preço Venda (R$)": "5,71",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Songcrafter Mage&ed=tdm"
       },
       {
@@ -1773,7 +1773,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,44",
+        "Preço Venda (R$)": "8,43",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori Mountain Monastery&ed=tdm"
       },
       {
@@ -2024,7 +2024,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonstorm Forecaster&ed=tdm"
       },
@@ -2033,7 +2033,7 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonstorm Forecaster&ed=tdm"
       },
@@ -2682,7 +2682,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "18,74",
+        "Preço Venda (R$)": "19,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Ureni, the Song Unending&ed=tdm"
       },
       {
@@ -2891,7 +2891,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "39,00",
+        "Preço Venda (R$)": "31,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Omniscience&ed=fdn"
       },
       {
@@ -2924,7 +2924,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,50",
+        "Preço Venda (R$)": "3,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=The Sibsig Ceremony&ed=tdm"
       },
       {
@@ -2969,7 +2969,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,49",
+        "Preço Venda (R$)": "0,62",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Magmakin Artillerist&ed=dft"
       },
       {
@@ -2996,7 +2996,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,44",
+        "Preço Venda (R$)": "1,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stroke of Midnight&ed=fdn"
       },
       {
@@ -3016,15 +3016,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mammoth Bellow&ed=tdm"
-      },
-      {
-        "Nome": "Brontodonte Destruidor / Thrashing Brontodon",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,75",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Thrashing Brontodon&ed=bbfdn"
       },
       {
         "Nome": "Capitão Berro, Flagelo dos Mares / Captain Howler, Sea Scourge",
@@ -3185,7 +3176,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,34",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Llanowar Elves&ed=fdn"
       },
       {
@@ -3284,7 +3275,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,80",
+        "Preço Venda (R$)": "2,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Redshift, Rocketeer Chief&ed=dft"
       },
       {
@@ -3387,15 +3378,6 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Reckless Bushwhacker&ed=ogw"
       },
       {
-        "Nome": "Imperiossauro Régio / Regal Imperiosaur",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "3,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Regal Imperiosaur&ed=dft"
-      },
-      {
         "Nome": "Ingenious Leonin",
         "Qualidade": "NM",
         "Extra": "",
@@ -3419,7 +3401,7 @@
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,60",
+        "Preço Venda (R$)": "6,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sinkhole Surveyor&ed=tdm"
       },
       {
@@ -3491,7 +3473,7 @@
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "98,91",
+        "Preço Venda (R$)": "99,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Faerie Mastermind&ed=mom"
       },
       {
@@ -3527,17 +3509,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,46",
+        "Preço Venda (R$)": "3,56",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Riverchurn Monument&ed=dft"
-      },
-      {
-        "Nome": "Morfoladra Cérea / Waxen Shapethief",
-        "Qualidade": "NM",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "6,30",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Waxen Shapethief&ed=dft"
       },
       {
         "Nome": "Morfoladra Cérea / Waxen Shapethief",
@@ -3546,6 +3519,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "3,85",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Waxen Shapethief&ed=dft"
+      },
+      {
+        "Nome": "Morfoladra Cérea / Waxen Shapethief",
+        "Qualidade": "NM",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "6,30",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Waxen Shapethief&ed=dft"
       },
       {
@@ -3596,19 +3578,19 @@
       {
         "Nome": "Regular / Tune Up",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,20",
+        "Preço Venda (R$)": "0,95",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tune Up&ed=prdft"
       },
       {
         "Nome": "Regular / Tune Up",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,95",
+        "Preço Venda (R$)": "1,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tune Up&ed=prdft"
       },
       {
@@ -3707,7 +3689,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,18",
+        "Preço Venda (R$)": "4,46",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mindspring Merfolk&ed=dft"
       },
       {
@@ -3734,7 +3716,7 @@
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "16,99",
+        "Preço Venda (R$)": "16,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Snakeskin Veil&ed=sscb"
       },
       {
@@ -3921,7 +3903,7 @@
         "Extra": "Foil",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "9,44",
+        "Preço Venda (R$)": "7,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kishla Village&ed=tdm"
       },
       {
@@ -3957,7 +3939,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,95",
+        "Preço Venda (R$)": "0,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Corpsejack Menace&ed=c16"
       },
       {
@@ -4011,8 +3993,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,13",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=tdm"
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=iko"
       },
       {
         "Nome": "Angra Tranquila / Tranquil Cove",
@@ -4020,8 +4002,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=iko"
+        "Preço Venda (R$)": "0,13",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Tranquil Cove&ed=tdm"
       },
       {
         "Nome": "Aniquilação Flamejante / Fiery Annihilation",
@@ -4317,7 +4299,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,03",
+        "Preço Venda (R$)": "0,04",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sandstorm Charger&ed=dtk"
       },
       {
@@ -4605,7 +4587,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,16",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helpful Hunter&ed=fdn"
       },
       {
@@ -4848,8 +4830,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jungle Hollow&ed=dft"
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jungle Hollow&ed=tdm"
       },
       {
         "Nome": "Clareira na Selva / Jungle Hollow",
@@ -4857,8 +4839,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jungle Hollow&ed=tdm"
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jungle Hollow&ed=dft"
       },
       {
         "Nome": "Clériga do Enclave Celeste / Skyclave Cleric",
@@ -5001,7 +4983,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "14,31",
+        "Preço Venda (R$)": "15,04",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=True Conviction&ed=scd"
       },
       {
@@ -5225,18 +5207,18 @@
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=c15"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=tdm"
       },
       {
         "Nome": "Desertos Calcinados / Scoured Barrens",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=tdm"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=c15"
       },
       {
         "Nome": "Deslizador Kishla / Kishla Skimmer",
@@ -5406,7 +5388,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,40",
+        "Preço Venda (R$)": "2,48",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonologist&ed=tdm"
       },
       {
@@ -5946,8 +5928,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,50",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Quick Study&ed=bbfdn"
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Quick Study&ed=woe"
       },
       {
         "Nome": "Estudo Rápido / Quick Study",
@@ -5955,8 +5937,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Quick Study&ed=woe"
+        "Preço Venda (R$)": "1,50",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Quick Study&ed=bbfdn"
       },
       {
         "Nome": "Etali, Tormenta Primordial / Etali, Primal Storm",
@@ -6108,7 +6090,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,07",
+        "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stab Wound&ed=m15"
       },
       {
@@ -6846,7 +6828,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "129,99",
+        "Preço Venda (R$)": "128,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori-Steel Cutter&ed=tdm"
       },
       {
@@ -6918,7 +6900,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,92",
+        "Preço Venda (R$)": "2,39",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Ever-Watching Threshold&ed=c18"
       },
       {
@@ -7188,7 +7170,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,44",
+        "Preço Venda (R$)": "8,43",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori Mountain Monastery&ed=tdm"
       },
       {
@@ -7673,18 +7655,18 @@
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=fdn"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,13",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=tdm"
       },
       {
         "Nome": "Planalto Acidentado / Rugged Highlands",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,13",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=tdm"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=fdn"
       },
       {
         "Nome": "Planamóvel dos Viajantes / Voyager Glidecar",
@@ -7970,18 +7952,18 @@
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=tdm"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=ddq"
       },
       {
         "Nome": "Remanso Funesto / Dismal Backwater",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=ddq"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=tdm"
       },
       {
         "Nome": "Renascimento Fúngico / Fungal Rebirth",
@@ -8475,7 +8457,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,50",
+        "Preço Venda (R$)": "1,58",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Golgari Signet&ed=onc"
       },
       {
@@ -9590,7 +9572,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,89",
+        "Preço Venda (R$)": "0,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Arabella, Abandoned Doll&ed=dsk"
       },
       {
@@ -10273,18 +10255,18 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,22",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=otj"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=dsk"
       },
       {
         "Nome": "Floresta (#285) / Forest (#285)",
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=dsk"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,22",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=otj"
       },
       {
         "Nome": "Fogo Dracônico Canalizado / Channeled Dragonfire",
@@ -10436,8 +10418,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,18",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=dom"
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=c19"
       },
       {
         "Nome": "Ilha / Island",
@@ -10445,8 +10427,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=c19"
+        "Preço Venda (R$)": "0,18",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=dom"
       },
       {
         "Nome": "Ilha (#263) / Island (#263)",
@@ -10571,7 +10553,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "129,99",
+        "Preço Venda (R$)": "128,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori-Steel Cutter&ed=tdm"
       },
       {
@@ -10823,7 +10805,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,44",
+        "Preço Venda (R$)": "8,43",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori Mountain Monastery&ed=tdm"
       },
       {
@@ -10985,15 +10967,6 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=c18"
-      },
-      {
-        "Nome": "Pântano / Swamp",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
         "Preço Venda (R$)": "1,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=bbd"
       },
@@ -11005,6 +10978,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,18",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=dom"
+      },
+      {
+        "Nome": "Pântano / Swamp",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=c18"
       },
       {
         "Nome": "Pântano (#258) / Swamp (#258)",
@@ -11138,8 +11120,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,45",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=bbd"
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=dom"
       },
       {
         "Nome": "Planície / Plains",
@@ -11147,8 +11129,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=dom"
+        "Preço Venda (R$)": "0,45",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=bbd"
       },
       {
         "Nome": "Planície (#394) / Plains (#394)",
@@ -11453,7 +11435,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,20",
+        "Preço Venda (R$)": "2,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Azorius Signet&ed=cmm"
       },
       {
@@ -11651,7 +11633,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "269,90",
+        "Preço Venda (R$)": "288,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Ugin, Eye of the Storms&ed=tdm"
       },
       {
@@ -11833,7 +11815,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,89",
+        "Preço Venda (R$)": "27,88",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonback Assault&ed=tdm"
       },
       {
@@ -11860,7 +11842,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "7,65",
+        "Preço Venda (R$)": "7,95",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swiftfoot Boots&ed=tdc"
       },
       {
@@ -11977,7 +11959,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,95",
+        "Preço Venda (R$)": "4,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Faithful Mending&ed=mid"
       },
       {
@@ -12481,7 +12463,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,10",
+        "Preço Venda (R$)": "16,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dark Ritual&ed=mm"
       },
       {
@@ -12616,7 +12598,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "13,17",
+        "Preço Venda (R$)": "11,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Supreme Verdict&ed=rtr"
       },
       {
@@ -13063,8 +13045,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "12,99",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Counterspell&ed=mm"
+        "Preço Venda (R$)": "16,88",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Counterspell&ed=7e"
       },
       {
         "Nome": "Contramágica / Counterspell",
@@ -13072,8 +13054,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "16,88",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Counterspell&ed=7e"
+        "Preço Venda (R$)": "12,99",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Counterspell&ed=mm"
       },
       {
         "Nome": "Coragem Inabalável / Unflinching Courage",
@@ -13225,7 +13207,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "55,10",
+        "Preço Venda (R$)": "49,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Misdirection&ed=ddt"
       },
       {
@@ -13468,7 +13450,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "1,75",
+        "Preço Venda (R$)": "1,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Darksteel Juggernaut&ed=c18"
       },
       {
@@ -13675,7 +13657,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "27,50",
+        "Preço Venda (R$)": "31,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Waste Not&ed=c16"
       },
       {
@@ -13738,7 +13720,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,25",
+        "Preço Venda (R$)": "0,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Opt&ed=otc"
       },
       {
@@ -14007,15 +13989,6 @@
         "Qualidade": "NM",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dark Ritual&ed=itp"
-      },
-      {
-        "Nome": "Ritual Sombrio / Dark Ritual",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "29,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dark Ritual&ed=mm"
@@ -14028,6 +14001,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "49,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dark Ritual&ed=tp"
+      },
+      {
+        "Nome": "Ritual Sombrio / Dark Ritual",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dark Ritual&ed=itp"
       },
       {
         "Nome": "Ronin Akki / Akki Ronin",
@@ -14125,7 +14107,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
-        "Preço Venda (R$)": "2,05",
+        "Preço Venda (R$)": "2,41",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Banishing Knack&ed=eve"
       },
       {
@@ -14143,7 +14125,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,80",
+        "Preço Venda (R$)": "1,78",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Talrand, Sky Summoner&ed=otc"
       },
       {
@@ -14362,6 +14344,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Communal Brewing&ed=blc"
       },
       {
+        "Nome": "Construção Eficiente / Efficient Construction",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Efficient Construction&ed=aer"
+      },
+      {
         "Nome": "Contrato Tentador / Tempting Contract",
         "Qualidade": "M",
         "Extra": "",
@@ -14396,6 +14387,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "9,85",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wrenn's Resolve&ed=mom"
+      },
+      {
+        "Nome": "Dínamo dos Thran / Thran Dynamo",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "14,00",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Thran Dynamo&ed=arc"
       },
       {
         "Nome": "Distribuidor de Dor / Pain Distributor",
@@ -14434,6 +14434,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Thousand-Year Elixir&ed=c21"
       },
       {
+        "Nome": "Elmo Multiplicador / Helm of the Host",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "29,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helm of the Host&ed=blc"
+      },
+      {
         "Nome": "Encantador de Feras / Beast Whisperer",
         "Qualidade": "M",
         "Extra": "",
@@ -14450,6 +14459,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "59,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Akki Battle Squad&ed=nec"
+      },
+      {
+        "Nome": "Estátua do Faraó-deus / God-Pharaoh's Statue",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "5,95",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=God-Pharaoh's Statue&ed=mb2"
       },
       {
         "Nome": "Exigir Respostas / Demand Answers",
@@ -14470,6 +14488,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalblast&ed=afc"
       },
       {
+        "Nome": "Explosão Vandálica / Vandalblast",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "9,00",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalblast&ed=afc"
+      },
+      {
         "Nome": "Fera Interior / Beast Within",
         "Qualidade": "M",
         "Extra": "",
@@ -14477,6 +14504,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "4,80",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Beast Within&ed=bbd"
+      },
+      {
+        "Nome": "Ferroada, o Punhal Reluzente / Sting, the Glinting Dagger",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "11,89",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sting, the Glinting Dagger&ed=bltr"
       },
       {
         "Nome": "Ferroada, o Punhal Reluzente / Sting, the Glinting Dagger",
@@ -14520,7 +14556,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,95",
+        "Preço Venda (R$)": "6,65",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Idol of Oblivion&ed=brc"
       },
       {
@@ -14531,6 +14567,24 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "4,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bloodline Pretender&ed=j22"
+      },
+      {
+        "Nome": "Invadir a Câmara / Storm the Vault",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "8,07",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Storm the Vault&ed=rix"
+      },
+      {
+        "Nome": "Inversão de Papéis / Role Reversal",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,30",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Role Reversal&ed=war"
       },
       {
         "Nome": "Kogla, o Símio Titânico / Kogla, the Titan Ape",
@@ -14551,12 +14605,21 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Curse of Opulence&ed=c17"
       },
       {
+        "Nome": "Maldição da Opulência / Curse of Opulence",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "4,75",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Curse of Opulence&ed=c17"
+      },
+      {
         "Nome": "Marvin, Mímico Assassino / Marvin, Murderous Mimic",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,00",
+        "Preço Venda (R$)": "6,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Marvin, Murderous Mimic&ed=dedsk"
       },
       {
@@ -14650,6 +14713,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Recollect&ed=10e"
       },
       {
+        "Nome": "Relógio de Agouros / Clock of Omens",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "12,90",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Clock of Omens&ed=5dn"
+      },
+      {
         "Nome": "Retorno do Falabravo / Return of the Wildspeaker",
         "Qualidade": "M",
         "Extra": "",
@@ -14675,6 +14747,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "11,95",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rhythm of the Wild&ed=lcc"
+      },
+      {
+        "Nome": "Saqueador Generoso / Generous Plunderer",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "12,83",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Generous Plunderer&ed=big"
       },
       {
         "Nome": "Saqueador Generoso / Generous Plunderer",
@@ -14722,6 +14803,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Talisman of Impulse&ed=blc"
       },
       {
+        "Nome": "Talismã do Impulso / Talisman of Impulse",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "7,90",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Talisman of Impulse&ed=blc"
+      },
+      {
         "Nome": "Towering Gibbon",
         "Qualidade": "M",
         "Extra": "",
@@ -14740,6 +14830,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kenrith's Transformation&ed=afc"
       },
       {
+        "Nome": "Transmutador Mestre / Master Transmuter",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "5,00",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Master Transmuter&ed=2xm"
+      },
+      {
         "Nome": "Vigor Primordial / Primal Vigor",
         "Qualidade": "M",
         "Extra": "",
@@ -14756,6 +14855,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "11,04",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sardian Avenger&ed=brc"
+      },
+      {
+        "Nome": "Visão do Futuro / Future Sight",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,56",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Future Sight&ed=ddm"
       },
       {
         "Nome": "Xamã dos Gorilas / Gorilla Shaman",
@@ -14850,8 +14958,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abrade&ed=gn3"
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abrade&ed=tdc"
       },
       {
         "Nome": "Abrasão / Abrade",
@@ -14859,8 +14967,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abrade&ed=tdc"
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Abrade&ed=gn3"
       },
       {
         "Nome": "Aceitar o Desafio / Rise to the Challenge",
@@ -14894,18 +15002,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,19",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dire Fleet Hoarder&ed=j25"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dire Fleet Hoarder&ed=2xm"
       },
       {
         "Nome": "Acumuladora da Frota Macabra / Dire Fleet Hoarder",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,06",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dire Fleet Hoarder&ed=2xm"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dire Fleet Hoarder&ed=j25"
       },
       {
         "Nome": "Adaptação Seletiva / Selective Adaptation",
@@ -15459,19 +15567,19 @@
       {
         "Nome": "Anunciadora de Batalhas Temur / Temur Battlecrier",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,89",
+        "Preço Venda (R$)": "2,80",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temur Battlecrier&ed=tdm"
       },
       {
         "Nome": "Anunciadora de Batalhas Temur / Temur Battlecrier",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,80",
+        "Preço Venda (R$)": "0,89",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temur Battlecrier&ed=tdm"
       },
       {
@@ -15686,18 +15794,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,05",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Blossoming Sands&ed=m21"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Blossoming Sands&ed=tdm"
       },
       {
         "Nome": "Areias Verdejantes / Blossoming Sands",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Blossoming Sands&ed=tdm"
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Blossoming Sands&ed=m21"
       },
       {
         "Nome": "Arena Phyrexiana / Phyrexian Arena",
@@ -15846,19 +15954,19 @@
       {
         "Nome": "Artesã Meticulosa / Meticulous Artisan",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Meticulous Artisan&ed=tdm"
       },
       {
         "Nome": "Artesã Meticulosa / Meticulous Artisan",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,35",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Meticulous Artisan&ed=tdm"
       },
       {
@@ -16038,8 +16146,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contract Killing&ed=xln"
+        "Preço Venda (R$)": "0,24",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contract Killing&ed=j25"
       },
       {
         "Nome": "Assassínio por Contrato / Contract Killing",
@@ -16047,8 +16155,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,24",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contract Killing&ed=j25"
+        "Preço Venda (R$)": "0,09",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contract Killing&ed=xln"
       },
       {
         "Nome": "Assassino de Silumgar / Silumgar Assassin",
@@ -16181,18 +16289,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,51",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Auramancer&ed=od"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Auramancer&ed=dmr"
       },
       {
         "Nome": "Auramante / Auramancer",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Auramancer&ed=dmr"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,51",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Auramancer&ed=od"
       },
       {
         "Nome": "Auriflama Goblin / Goblin Oriflamme",
@@ -16520,7 +16628,7 @@
       },
       {
         "Nome": "Berrolampo Feroz // Extirpar / Stormshriek Feral // Flush Out",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
@@ -16529,7 +16637,7 @@
       },
       {
         "Nome": "Berrolampo Feroz // Extirpar / Stormshriek Feral // Flush Out",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
@@ -16848,7 +16956,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "7x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,16",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helpful Hunter&ed=fdn"
       },
       {
@@ -16980,19 +17088,19 @@
       {
         "Nome": "Campeão de Dusan / Champion of Dusan",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
+        "Preço Venda (R$)": "0,35",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Champion of Dusan&ed=tdm"
       },
       {
         "Nome": "Campeão de Dusan / Champion of Dusan",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,14",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Champion of Dusan&ed=tdm"
       },
       {
@@ -17001,7 +17109,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "23,14",
+        "Preço Venda (R$)": "24,69",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hunting Grounds&ed=ju"
       },
       {
@@ -17018,18 +17126,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kolaghan Stormsinger&ed=mb1"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kolaghan Stormsinger&ed=dtk"
       },
       {
         "Nome": "Canta-tempestade de Kolaghan / Kolaghan Stormsinger",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,06",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kolaghan Stormsinger&ed=dtk"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kolaghan Stormsinger&ed=mb1"
       },
       {
         "Nome": "Canta-tempestade Venerado / Venerated Stormsinger",
@@ -17316,7 +17424,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,49",
+        "Preço Venda (R$)": "6,65",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Woodland Cemetery&ed=dom"
       },
       {
@@ -17640,7 +17748,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,45",
+        "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Arbor Colossus&ed=c15"
       },
       {
@@ -17847,7 +17955,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,00",
+        "Preço Venda (R$)": "7,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Consider&ed=clu"
       },
       {
@@ -17892,8 +18000,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,39",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Underworld Connections&ed=ddm"
+        "Preço Venda (R$)": "1,49",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Underworld Connections&ed=c17"
       },
       {
         "Nome": "Contatos no Submundo / Underworld Connections",
@@ -17901,8 +18009,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,70",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Underworld Connections&ed=c17"
+        "Preço Venda (R$)": "1,39",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Underworld Connections&ed=ddm"
       },
       {
         "Nome": "Contenção Reduzida / Minimus Containment",
@@ -17924,19 +18032,19 @@
       },
       {
         "Nome": "Contrabandear Gado / Contraband Livestock",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
+        "Idioma": "-",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,09",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contraband Livestock&ed=clb"
       },
       {
         "Nome": "Contrabandear Gado / Contraband Livestock",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "2x",
+        "Idioma": "",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,09",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Contraband Livestock&ed=clb"
       },
@@ -18198,7 +18306,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,00",
+        "Preço Venda (R$)": "4,31",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cultivate&ed=c20"
       },
       {
@@ -18252,8 +18360,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Angelic Gift&ed=mb1"
+        "Preço Venda (R$)": "0,07",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Angelic Gift&ed=m20"
       },
       {
         "Nome": "Dádiva Angelical / Angelic Gift",
@@ -18261,8 +18369,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,07",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Angelic Gift&ed=m20"
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Angelic Gift&ed=mb1"
       },
       {
         "Nome": "Dádiva da Escama do Dragão / Dragonscale Boon",
@@ -18495,6 +18603,15 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=iko"
+      },
+      {
+        "Nome": "Desertos Calcinados / Scoured Barrens",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=c17"
       },
@@ -18515,15 +18632,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,22",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=tdm"
-      },
-      {
-        "Nome": "Desertos Calcinados / Scoured Barrens",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Scoured Barrens&ed=iko"
       },
       {
         "Nome": "Desfiladeiro da Mata / Timber Gorge",
@@ -18801,7 +18909,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,50",
+        "Preço Venda (R$)": "0,40",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fire Diamond&ed=clb"
       },
       {
@@ -18909,7 +19017,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,40",
+        "Preço Venda (R$)": "2,48",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonologist&ed=tdm"
       },
       {
@@ -19293,20 +19401,20 @@
       {
         "Nome": "Elite de Dwynen / Dwynen's Elite",
         "Qualidade": "M",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,28",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dwynen's Elite&ed=fdn"
-      },
-      {
-        "Nome": "Elite de Dwynen / Dwynen's Elite",
-        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
         "Preço Venda (R$)": "0,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dwynen's Elite&ed=jmp"
+      },
+      {
+        "Nome": "Elite de Dwynen / Dwynen's Elite",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,28",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dwynen's Elite&ed=fdn"
       },
       {
         "Nome": "Ellyn Harbrisa, Intrometida / Ellyn Harbreeze, Busybody",
@@ -19383,19 +19491,19 @@
       {
         "Nome": "Emprego Involuntário / Involuntary Employment",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
+        "Preço Venda (R$)": "0,08",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Involuntary Employment&ed=fdn"
       },
       {
         "Nome": "Emprego Involuntário / Involuntary Employment",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,08",
+        "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Involuntary Employment&ed=fdn"
       },
       {
@@ -19482,19 +19590,19 @@
       {
         "Nome": "Entrar em Justa / Joust Through",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,66",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Joust Through&ed=fdn"
       },
       {
         "Nome": "Entrar em Justa / Joust Through",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "3x",
-        "Preço Venda (R$)": "0,23",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,66",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Joust Through&ed=fdn"
       },
       {
@@ -19943,18 +20051,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mind Rot&ed=mb1"
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,05",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mind Rot&ed=m19"
       },
       {
         "Nome": "Estiolar a Mente / Mind Rot",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,05",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mind Rot&ed=m19"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mind Rot&ed=mb1"
       },
       {
         "Nome": "Estrangular / Throttle",
@@ -20088,7 +20196,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "7,90",
+        "Preço Venda (R$)": "7,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exemplar of Light&ed=fdn"
       },
       {
@@ -20228,21 +20336,21 @@
       },
       {
         "Nome": "Fanático de Mogis / Fanatic of Mogis",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fanatic of Mogis&ed=ths"
-      },
-      {
-        "Nome": "Fanático de Mogis / Fanatic of Mogis",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fanatic of Mogis&ed=mb2"
+      },
+      {
+        "Nome": "Fanático de Mogis / Fanatic of Mogis",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fanatic of Mogis&ed=ths"
       },
       {
         "Nome": "Fantasma Ensangüentado / Bloodied Ghost",
@@ -20426,24 +20534,6 @@
       },
       {
         "Nome": "Floresta / Forest",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest&ed=cm2"
-      },
-      {
-        "Nome": "Floresta / Forest",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,19",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest&ed=m20"
-      },
-      {
-        "Nome": "Floresta / Forest",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
@@ -20477,6 +20567,24 @@
         "Quantidade": "3x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest&ed=cmd"
+      },
+      {
+        "Nome": "Floresta / Forest",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest&ed=cm2"
+      },
+      {
+        "Nome": "Floresta / Forest",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest&ed=m20"
       },
       {
         "Nome": "Floresta (#112) / Forest (#112)",
@@ -20535,19 +20643,19 @@
       {
         "Nome": "Floresta (#285) / Forest (#285)",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,49",
+        "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=tdm"
       },
       {
         "Nome": "Floresta (#285) / Forest (#285)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23285)&ed=tdm"
       },
       {
@@ -20616,15 +20724,6 @@
       {
         "Nome": "Floresta (#450) / Forest (#450)",
         "Qualidade": "M",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "3,90",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23450)&ed=cmm"
-      },
-      {
-        "Nome": "Floresta (#450) / Forest (#450)",
-        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "4x",
@@ -20632,13 +20731,13 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23450)&ed=cmm"
       },
       {
-        "Nome": "Floresta (#467) / Forest (#467)",
+        "Nome": "Floresta (#450) / Forest (#450)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23467)&ed=clb"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "3,90",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23450)&ed=cmm"
       },
       {
         "Nome": "Floresta (#467) / Forest (#467)",
@@ -20647,6 +20746,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,60",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23467)&ed=clb"
+      },
+      {
+        "Nome": "Floresta (#467) / Forest (#467)",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Forest (%23467)&ed=clb"
       },
       {
@@ -20903,15 +21011,6 @@
       },
       {
         "Nome": "Fúria Inflamada / Kindled Fury",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,19",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kindled Fury&ed=bbfdn"
-      },
-      {
-        "Nome": "Fúria Inflamada / Kindled Fury",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
@@ -20927,6 +21026,15 @@
         "Quantidade": "4x",
         "Preço Venda (R$)": "0,06",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kindled Fury&ed=hou"
+      },
+      {
+        "Nome": "Fúria Inflamada / Kindled Fury",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,19",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kindled Fury&ed=bbfdn"
       },
       {
         "Nome": "Fúria Maníaca / Maniacal Rage",
@@ -21011,19 +21119,19 @@
       },
       {
         "Nome": "Garras de Fora / Claws Out",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "7x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Claws Out&ed=fdn"
       },
       {
         "Nome": "Garras de Fora / Claws Out",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "7x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Claws Out&ed=fdn"
       },
@@ -21393,7 +21501,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,25",
+        "Preço Venda (R$)": "6,24",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Great Arashin City&ed=tdm"
       },
       {
@@ -21707,18 +21815,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,06",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Akroan Hoplite&ed=ths"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Akroan Hoplite&ed=mb1"
       },
       {
         "Nome": "Hoplita Acrosano / Akroan Hoplite",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Akroan Hoplite&ed=mb1"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,06",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Akroan Hoplite&ed=ths"
       },
       {
         "Nome": "Horda de Garruk / Garruk's Horde",
@@ -21803,6 +21911,33 @@
       },
       {
         "Nome": "Ilha / Island",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "8x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=c19"
+      },
+      {
+        "Nome": "Ilha / Island",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=cm2"
+      },
+      {
+        "Nome": "Ilha / Island",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=ddi"
+      },
+      {
+        "Nome": "Ilha / Island",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
@@ -21818,33 +21953,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=m15"
-      },
-      {
-        "Nome": "Ilha / Island",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=cm2"
-      },
-      {
-        "Nome": "Ilha / Island",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "8x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=c19"
-      },
-      {
-        "Nome": "Ilha / Island",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island&ed=ddi"
       },
       {
         "Nome": "Ilha (#253) / Island (#253)",
@@ -21896,18 +22004,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23266)&ed=xln"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23266)&ed=afr"
       },
       {
         "Nome": "Ilha (#266) / Island (#266)",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23266)&ed=afr"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23266)&ed=xln"
       },
       {
         "Nome": "Ilha (#267) / Island (#267)",
@@ -21930,19 +22038,19 @@
       {
         "Nome": "Ilha (#273) / Island (#273)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,99",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23273)&ed=tdm"
       },
       {
         "Nome": "Ilha (#273) / Island (#273)",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "2,50",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23273)&ed=tdm"
       },
       {
@@ -21966,19 +22074,19 @@
       {
         "Nome": "Ilha (#279) / Island (#279)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "5x",
-        "Preço Venda (R$)": "0,23",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23279)&ed=tdm"
       },
       {
         "Nome": "Ilha (#279) / Island (#279)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "5x",
-        "Preço Venda (R$)": "0,23",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Island (%23279)&ed=tdm"
       },
       {
@@ -22437,7 +22545,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,94",
+        "Preço Venda (R$)": "4,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jace, the Living Guildpact&ed=m15"
       },
       {
@@ -22455,7 +22563,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,35",
+        "Preço Venda (R$)": "0,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Jazal Goldmane&ed=c17"
       },
       {
@@ -22680,8 +22788,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highland Lake&ed=soi"
+        "Preço Venda (R$)": "0,18",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highland Lake&ed=rix"
       },
       {
         "Nome": "Lago Montanhês / Highland Lake",
@@ -22689,8 +22797,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,18",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highland Lake&ed=rix"
+        "Preço Venda (R$)": "0,15",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highland Lake&ed=soi"
       },
       {
         "Nome": "Lâmina Celeste da Legião / Skyblade of the Legion",
@@ -23292,7 +23400,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,51",
+        "Preço Venda (R$)": "28,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Monster Manual // Zoological Study&ed=clb"
       },
       {
@@ -23310,8 +23418,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mark of the Vampire&ed=xln"
+        "Preço Venda (R$)": "0,07",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mark of the Vampire&ed=m14"
       },
       {
         "Nome": "Marca do Vampiro / Mark of the Vampire",
@@ -23319,8 +23427,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,07",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mark of the Vampire&ed=m14"
+        "Preço Venda (R$)": "0,09",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mark of the Vampire&ed=xln"
       },
       {
         "Nome": "Marcha dos Afogados / March of the Drowned",
@@ -23513,21 +23621,21 @@
       },
       {
         "Nome": "Meridiana do Vidente / Seer's Sundial",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Seer's Sundial&ed=c18"
-      },
-      {
-        "Nome": "Meridiana do Vidente / Seer's Sundial",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,44",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Seer's Sundial&ed=ddp"
+      },
+      {
+        "Nome": "Meridiana do Vidente / Seer's Sundial",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Seer's Sundial&ed=c18"
       },
       {
         "Nome": "Mesmerista Vedalkeano / Vedalken Mesmerist",
@@ -23558,19 +23666,19 @@
       },
       {
         "Nome": "Mestre Espontâneo / Effortless Master",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "2x",
         "Preço Venda (R$)": "0,29",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Effortless Master&ed=tdm"
       },
       {
         "Nome": "Mestre Espontâneo / Effortless Master",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,29",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Effortless Master&ed=tdm"
       },
@@ -23724,17 +23832,8 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,44",
+        "Preço Venda (R$)": "8,43",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cori Mountain Monastery&ed=tdm"
-      },
-      {
-        "Nome": "Monastério Místico / Mystic Monastery",
-        "Qualidade": "M",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "1,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mystic Monastery&ed=tdm"
       },
       {
         "Nome": "Monastério Místico / Mystic Monastery",
@@ -23743,6 +23842,15 @@
         "Idioma": "",
         "Quantidade": "2x",
         "Preço Venda (R$)": "0,24",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mystic Monastery&ed=tdm"
+      },
+      {
+        "Nome": "Monastério Místico / Mystic Monastery",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "1,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mystic Monastery&ed=tdm"
       },
       {
@@ -23774,12 +23882,12 @@
       },
       {
         "Nome": "Montanha / Mountain",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain&ed=ddn"
+        "Idioma": "-",
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain&ed=c18"
       },
       {
         "Nome": "Montanha / Mountain",
@@ -23819,21 +23927,21 @@
       },
       {
         "Nome": "Montanha / Mountain",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain&ed=c18"
-      },
-      {
-        "Nome": "Montanha / Mountain",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
         "Preço Venda (R$)": "0,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain&ed=ddu"
+      },
+      {
+        "Nome": "Montanha / Mountain",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain&ed=ddn"
       },
       {
         "Nome": "Montanha (#108) / Mountain (#108)",
@@ -23901,19 +24009,19 @@
       {
         "Nome": "Montanha (#275) / Mountain (#275)",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,00",
+        "Preço Venda (R$)": "1,48",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain (%23275)&ed=tdm"
       },
       {
         "Nome": "Montanha (#275) / Mountain (#275)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,48",
+        "Preço Venda (R$)": "3,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mountain (%23275)&ed=tdm"
       },
       {
@@ -24332,18 +24440,18 @@
       },
       {
         "Nome": "Neheb, Capitão da Horda Medonha / Neheb, Dreadhorde Champion",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
-        "Idioma": "-",
+        "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,70",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Neheb, Dreadhorde Champion&ed=war"
       },
       {
         "Nome": "Neheb, Capitão da Horda Medonha / Neheb, Dreadhorde Champion",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
-        "Idioma": "",
+        "Idioma": "-",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,70",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Neheb, Dreadhorde Champion&ed=war"
@@ -24620,21 +24728,21 @@
       },
       {
         "Nome": "Optar / Opt",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Opt&ed=m21"
-      },
-      {
-        "Nome": "Optar / Opt",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Opt&ed=tdc"
+      },
+      {
+        "Nome": "Optar / Opt",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Opt&ed=m21"
       },
       {
         "Nome": "Oração do Aprisionamento / Prayer of Binding",
@@ -24809,6 +24917,15 @@
       },
       {
         "Nome": "Pântano / Swamp",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "20x",
+        "Preço Venda (R$)": "1,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=bbd"
+      },
+      {
+        "Nome": "Pântano / Swamp",
         "Qualidade": "-",
         "Extra": "",
         "Idioma": "-",
@@ -24833,15 +24950,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,57",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=m19"
-      },
-      {
-        "Nome": "Pântano / Swamp",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "20x",
-        "Preço Venda (R$)": "1,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp&ed=bbd"
       },
       {
         "Nome": "Pântano (#129) / Swamp (#129)",
@@ -24966,8 +25074,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp (%23281)&ed=mkm"
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp (%23281)&ed=tdm"
       },
       {
         "Nome": "Pântano (#281) / Swamp (#281)",
@@ -24975,8 +25083,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp (%23281)&ed=tdm"
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Swamp (%23281)&ed=mkm"
       },
       {
         "Nome": "Pântano (#282) / Swamp (#282)",
@@ -25181,15 +25289,6 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "5x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stone Quarry&ed=akh"
-      },
-      {
-        "Nome": "Pedreira / Stone Quarry",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stone Quarry&ed=c19"
@@ -25204,6 +25303,15 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stone Quarry&ed=xln"
       },
       {
+        "Nome": "Pedreira / Stone Quarry",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "5x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Stone Quarry&ed=akh"
+      },
+      {
         "Nome": "Pegar // Soltar / Catch // Release",
         "Qualidade": "M",
         "Extra": "",
@@ -25211,15 +25319,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,29",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Catch // Release&ed=dgm"
-      },
-      {
-        "Nome": "Penhasco Marcado pelo Vento / Wind-Scarred Crag",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wind-Scarred Crag&ed=ema"
       },
       {
         "Nome": "Penhasco Marcado pelo Vento / Wind-Scarred Crag",
@@ -25249,13 +25348,13 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wind-Scarred Crag&ed=tdm"
       },
       {
-        "Nome": "Pensar Duas Vezes / Think Twice",
+        "Nome": "Penhasco Marcado pelo Vento / Wind-Scarred Crag",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Think Twice&ed=tdc"
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wind-Scarred Crag&ed=ema"
       },
       {
         "Nome": "Pensar Duas Vezes / Think Twice",
@@ -25265,6 +25364,15 @@
         "Quantidade": "2x",
         "Preço Venda (R$)": "0,09",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Think Twice&ed=fdn"
+      },
+      {
+        "Nome": "Pensar Duas Vezes / Think Twice",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Think Twice&ed=tdc"
       },
       {
         "Nome": "Perder a Calma / Lose Calm",
@@ -25424,27 +25532,18 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,13",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=tdm"
+        "Quantidade": "4x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=ema"
       },
       {
         "Nome": "Planalto Acidentado / Rugged Highlands",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "4x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=ema"
-      },
-      {
-        "Nome": "Planície / Plains",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=c18"
+        "Preço Venda (R$)": "0,13",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rugged Highlands&ed=tdm"
       },
       {
         "Nome": "Planície / Plains",
@@ -25484,6 +25583,15 @@
       },
       {
         "Nome": "Planície / Plains",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "-",
+        "Quantidade": "6x",
+        "Preço Venda (R$)": "0,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=cmd"
+      },
+      {
+        "Nome": "Planície / Plains",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
@@ -25493,12 +25601,12 @@
       },
       {
         "Nome": "Planície / Plains",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
-        "Idioma": "-",
-        "Quantidade": "6x",
-        "Preço Venda (R$)": "0,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=cmd"
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains&ed=c18"
       },
       {
         "Nome": "Planície (#124) / Plains (#124)",
@@ -25550,26 +25658,26 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23262)&ed=xln"
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,21",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23262)&ed=iko"
       },
       {
         "Nome": "Planície (#262) / Plains (#262)",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,21",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23262)&ed=iko"
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,23",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23262)&ed=xln"
       },
       {
         "Nome": "Planície (#272) / Plains (#272)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "5x",
-        "Preço Venda (R$)": "0,20",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,50",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23272)&ed=fdn"
       },
       {
@@ -25595,9 +25703,9 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,96",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23272)&ed=tdm"
+        "Quantidade": "5x",
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23272)&ed=fdn"
       },
       {
         "Nome": "Planície (#273) / Plains (#273)",
@@ -25620,19 +25728,19 @@
       {
         "Nome": "Planície (#277) / Plains (#277)",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "3x",
-        "Preço Venda (R$)": "0,10",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,45",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23277)&ed=tdm"
       },
       {
         "Nome": "Planície (#277) / Plains (#277)",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,45",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23277)&ed=tdm"
       },
       {
@@ -25710,15 +25818,6 @@
       {
         "Nome": "Planície (#452) / Plains (#452)",
         "Qualidade": "M",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,60",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23452)&ed=clb"
-      },
-      {
-        "Nome": "Planície (#452) / Plains (#452)",
-        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
@@ -25726,13 +25825,13 @@
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23452)&ed=clb"
       },
       {
-        "Nome": "Planície (#453) / Plains (#453)",
+        "Nome": "Planície (#452) / Plains (#452)",
         "Qualidade": "M",
         "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "2x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,60",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23453)&ed=clb"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23452)&ed=clb"
       },
       {
         "Nome": "Planície (#453) / Plains (#453)",
@@ -25741,6 +25840,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23453)&ed=clb"
+      },
+      {
+        "Nome": "Planície (#453) / Plains (#453)",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,60",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Plains (%23453)&ed=clb"
       },
       {
@@ -25803,8 +25911,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,35",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exotic Orchard&ed=tdc"
+        "Preço Venda (R$)": "2,27",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exotic Orchard&ed=brc"
       },
       {
         "Nome": "Pomar Exótico / Exotic Orchard",
@@ -25812,8 +25920,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,27",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exotic Orchard&ed=brc"
+        "Preço Venda (R$)": "1,35",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exotic Orchard&ed=tdc"
       },
       {
         "Nome": "Pomar Hediondo / Foul Orchard",
@@ -25880,20 +25988,20 @@
       },
       {
         "Nome": "Portadora da Glória / Bearer of Glory",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,09",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bearer of Glory&ed=tdm"
-      },
-      {
-        "Nome": "Portadora da Glória / Bearer of Glory",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bearer of Glory&ed=tdm"
+      },
+      {
+        "Nome": "Portadora da Glória / Bearer of Glory",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,09",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bearer of Glory&ed=tdm"
       },
       {
@@ -25974,8 +26082,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rakdos Guildgate&ed=dgm"
+        "Preço Venda (R$)": "0,24",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rakdos Guildgate&ed=clu"
       },
       {
         "Nome": "Portão da Guilda Rakdos / Rakdos Guildgate",
@@ -25983,8 +26091,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,24",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rakdos Guildgate&ed=clu"
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Rakdos Guildgate&ed=dgm"
       },
       {
         "Nome": "Portão da Guilda Simic / Simic Guildgate",
@@ -26118,7 +26226,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,50",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Luminate Primordial&ed=gtc"
       },
       {
@@ -26178,19 +26286,19 @@
       {
         "Nome": "Protetor da Família da Fortaleza / Fortress Kin-Guard",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fortress Kin-Guard&ed=tdm"
       },
       {
         "Nome": "Protetor da Família da Fortaleza / Fortress Kin-Guard",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,10",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Fortress Kin-Guard&ed=tdm"
       },
       {
@@ -26298,8 +26406,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,30",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hero's Downfall&ed=dmc"
+        "Preço Venda (R$)": "1,76",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hero's Downfall&ed=dbl"
       },
       {
         "Nome": "Queda do Herói / Hero's Downfall",
@@ -26307,8 +26415,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,76",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hero's Downfall&ed=dbl"
+        "Preço Venda (R$)": "0,30",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hero's Downfall&ed=dmc"
       },
       {
         "Nome": "Queda do Martelo / Fall of the Hammer",
@@ -26469,8 +26577,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Burglar Rat&ed=grn"
+        "Preço Venda (R$)": "0,50",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Burglar Rat&ed=j22"
       },
       {
         "Nome": "Rato Ladrão / Burglar Rat",
@@ -26478,8 +26586,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,50",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Burglar Rat&ed=j22"
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Burglar Rat&ed=grn"
       },
       {
         "Nome": "Ratos Tifoides / Typhoid Rats",
@@ -26568,7 +26676,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,71",
+        "Preço Venda (R$)": "2,31",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wilderness Reclamation&ed=rna"
       },
       {
@@ -26675,6 +26783,15 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
+        "Quantidade": "3x",
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=tdm"
+      },
+      {
+        "Nome": "Remanso Funesto / Dismal Backwater",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,19",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=c17"
@@ -26687,15 +26804,6 @@
         "Quantidade": "5x",
         "Preço Venda (R$)": "0,24",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=mb1"
-      },
-      {
-        "Nome": "Remanso Funesto / Dismal Backwater",
-        "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "3x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dismal Backwater&ed=tdm"
       },
       {
         "Nome": "Renascimento Phyrexiano / Phyrexian Rebirth",
@@ -27009,7 +27117,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,60",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Wingmate Roc&ed=c19"
       },
       {
@@ -27285,19 +27393,19 @@
       {
         "Nome": "Saqueadora de Caixa-forte / Strongbox Raider",
         "Qualidade": "M",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,12",
+        "Preço Venda (R$)": "0,41",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Strongbox Raider&ed=fdn"
       },
       {
         "Nome": "Saqueadora de Caixa-forte / Strongbox Raider",
         "Qualidade": "M",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,41",
+        "Preço Venda (R$)": "0,12",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Strongbox Raider&ed=fdn"
       },
       {
@@ -27473,19 +27581,19 @@
       },
       {
         "Nome": "Sentinela Boca-de-brasa / Embermouth Sentinel",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "3x",
+        "Quantidade": "1x",
         "Preço Venda (R$)": "0,14",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Embermouth Sentinel&ed=tdm"
       },
       {
         "Nome": "Sentinela Boca-de-brasa / Embermouth Sentinel",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
+        "Quantidade": "3x",
         "Preço Venda (R$)": "0,14",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Embermouth Sentinel&ed=tdm"
       },
@@ -27663,15 +27771,6 @@
       {
         "Nome": "Sineira dos Espigões / Highspire Bell-Ringer",
         "Qualidade": "M",
-        "Extra": "Foil",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,35",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highspire Bell-Ringer&ed=tdm"
-      },
-      {
-        "Nome": "Sineira dos Espigões / Highspire Bell-Ringer",
-        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "3x",
@@ -27685,6 +27784,15 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highspire Bell-Ringer&ed=tdm"
+      },
+      {
+        "Nome": "Sineira dos Espigões / Highspire Bell-Ringer",
+        "Qualidade": "M",
+        "Extra": "Foil",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,35",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Highspire Bell-Ringer&ed=tdm"
       },
       {
@@ -27720,8 +27828,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,25",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Signet&ed=rav"
+        "Preço Venda (R$)": "2,70",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Signet&ed=tdc"
       },
       {
         "Nome": "Sinete Boros / Boros Signet",
@@ -27729,8 +27837,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,70",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Signet&ed=tdc"
+        "Preço Venda (R$)": "3,25",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Signet&ed=rav"
       },
       {
         "Nome": "Sinete Golgari / Golgari Signet",
@@ -27945,7 +28053,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,76",
+        "Preço Venda (R$)": "2,67",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Entreat the Angels&ed=dsc"
       },
       {
@@ -27999,7 +28107,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,48",
+        "Preço Venda (R$)": "5,02",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Night's Whisper&ed=ema"
       },
       {
@@ -28196,8 +28304,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "2x",
-        "Preço Venda (R$)": "0,25",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,26",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Breaching Dragonstorm&ed=tdm"
       },
       {
@@ -28205,8 +28313,8 @@
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
+        "Quantidade": "2x",
+        "Preço Venda (R$)": "0,26",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Breaching Dragonstorm&ed=tdm"
       },
       {
@@ -28257,20 +28365,20 @@
       {
         "Nome": "Templo do Triunfo / Temple of Triumph",
         "Qualidade": "M",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,50",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temple of Triumph&ed=tdc"
-      },
-      {
-        "Nome": "Templo do Triunfo / Temple of Triumph",
-        "Qualidade": "M",
         "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "4,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temple of Triumph&ed=ths"
+      },
+      {
+        "Nome": "Templo do Triunfo / Temple of Triumph",
+        "Qualidade": "M",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,50",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Temple of Triumph&ed=tdc"
       },
       {
         "Nome": "Teórico do Éter / Aether Theorist",
@@ -28280,15 +28388,6 @@
         "Quantidade": "4x",
         "Preço Venda (R$)": "0,10",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Aether Theorist&ed=kld"
-      },
-      {
-        "Nome": "Terras em Desenvolvimento / Evolving Wilds",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Evolving Wilds&ed=tdm"
       },
       {
         "Nome": "Terras em Desenvolvimento / Evolving Wilds",
@@ -28316,6 +28415,15 @@
         "Quantidade": "2x",
         "Preço Venda (R$)": "0,23",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Evolving Wilds&ed=fdn"
+      },
+      {
+        "Nome": "Terras em Desenvolvimento / Evolving Wilds",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Evolving Wilds&ed=tdm"
       },
       {
         "Nome": "Terrescultor de Dusyut / Dusyut Earthcarver",
@@ -28459,7 +28567,7 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "1,35",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Command Tower&ed=znc"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Command Tower&ed=c20"
       },
       {
         "Nome": "Torre de Comando / Command Tower",
@@ -28467,8 +28575,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,35",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Command Tower&ed=c20"
+        "Preço Venda (R$)": "1,19",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Command Tower&ed=tdc"
       },
       {
         "Nome": "Torre do Relicário / Reliquary Tower",
@@ -28629,7 +28737,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
+        "Preço Venda (R$)": "0,19",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Celestial Unicorn&ed=afr"
       },
       {
@@ -28720,7 +28828,7 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,08",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalize&ed=mb1"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalize&ed=dtk"
       },
       {
         "Nome": "Vandalizar / Vandalize",
@@ -28729,7 +28837,7 @@
         "Idioma": "",
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,08",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalize&ed=dtk"
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Vandalize&ed=mb1"
       },
       {
         "Nome": "Vanguardeira de Deslizareia / Sandskitter Outrider",
@@ -28854,7 +28962,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,95",
+        "Preço Venda (R$)": "1,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Winds of Rath&ed=c18"
       },
       {
@@ -28922,6 +29030,15 @@
       },
       {
         "Nome": "Véu de Pele de Serpente / Snakeskin Veil",
+        "Qualidade": "-",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "0,16",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Snakeskin Veil&ed=tdm"
+      },
+      {
+        "Nome": "Véu de Pele de Serpente / Snakeskin Veil",
         "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
@@ -28937,15 +29054,6 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,20",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Snakeskin Veil&ed=fdn"
-      },
-      {
-        "Nome": "Véu de Pele de Serpente / Snakeskin Veil",
-        "Qualidade": "-",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "0,16",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Snakeskin Veil&ed=tdm"
       },
       {
         "Nome": "Veyran, Voz da Dualidade / Veyran, Voice of Duality",
@@ -28985,7 +29093,7 @@
       },
       {
         "Nome": "Viajante Ainok / Ainok Wayfarer",
-        "Qualidade": "-",
+        "Qualidade": "M",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
@@ -28994,7 +29102,7 @@
       },
       {
         "Nome": "Viajante Ainok / Ainok Wayfarer",
-        "Qualidade": "M",
+        "Qualidade": "-",
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
@@ -29531,7 +29639,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "16,43",
+        "Preço Venda (R$)": "16,41",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Archmage Emeritus&ed=fic"
       },
       {
@@ -29558,7 +29666,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,89",
+        "Preço Venda (R$)": "27,88",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonback Assault&ed=tdm"
       },
       {
@@ -30071,7 +30179,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "63,20",
+        "Preço Venda (R$)": "63,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mox Jasper&ed=tdm"
       },
       {
@@ -30134,7 +30242,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "13,00",
+        "Preço Venda (R$)": "9,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Perennation&ed=tdm"
       },
       {
@@ -30473,8 +30581,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,50",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kodama's Reach&ed=znc"
+        "Preço Venda (R$)": "7,75",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kodama's Reach&ed=c15"
       },
       {
         "Nome": "Alcance do Kodama / Kodama's Reach",
@@ -30482,8 +30590,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "7,75",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kodama's Reach&ed=c15"
+        "Preço Venda (R$)": "6,50",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kodama's Reach&ed=znc"
       },
       {
         "Nome": "Aldeão Menosprezado / Scorned Villager",
@@ -30554,15 +30662,6 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "49,27",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sol Ring&ed=30a"
-      },
-      {
-        "Nome": "Anel Solar / Sol Ring",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
         "Preço Venda (R$)": "7,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sol Ring&ed=dmc"
       },
@@ -30574,6 +30673,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "6,74",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sol Ring&ed=moc"
+      },
+      {
+        "Nome": "Anel Solar / Sol Ring",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "49,27",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sol Ring&ed=30a"
       },
       {
         "Nome": "Angra Tranquila / Tranquil Cove",
@@ -30671,8 +30779,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,08",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bladewing the Risen&ed=c17"
+        "Preço Venda (R$)": "1,42",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bladewing the Risen&ed=ima"
       },
       {
         "Nome": "Asas Laminadas, o Ressurgido / Bladewing the Risen",
@@ -30680,8 +30788,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,42",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bladewing the Risen&ed=ima"
+        "Preço Venda (R$)": "2,08",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bladewing the Risen&ed=c17"
       },
       {
         "Nome": "Ascendência Temur / Temur Ascendancy",
@@ -30698,7 +30806,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,89",
+        "Preço Venda (R$)": "27,88",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragonback Assault&ed=tdm"
       },
       {
@@ -30806,7 +30914,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,16",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helpful Hunter&ed=fdn"
       },
       {
@@ -31040,15 +31148,6 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,83",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cultivate&ed=cmr"
-      },
-      {
-        "Nome": "Cultivar / Cultivate",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
         "Preço Venda (R$)": "4,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cultivate&ed=dmc"
       },
@@ -31060,6 +31159,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "3,98",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cultivate&ed=blc"
+      },
+      {
+        "Nome": "Cultivar / Cultivate",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "3,78",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cultivate&ed=cmr"
       },
       {
         "Nome": "Cutelo de Açougueiro / Butcher's Cleaver",
@@ -31328,8 +31436,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "11,75",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bolt Bend&ed=mb2"
+        "Preço Venda (R$)": "7,00",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bolt Bend&ed=war"
       },
       {
         "Nome": "Envergamento de Raio / Bolt Bend",
@@ -31337,8 +31445,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "8,00",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bolt Bend&ed=war"
+        "Preço Venda (R$)": "11,75",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bolt Bend&ed=mb2"
       },
       {
         "Nome": "Escorregão Trágico / Tragic Slip",
@@ -31454,8 +31562,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,45",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kaya's Ghostform&ed=war"
+        "Preço Venda (R$)": "6,90",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kaya's Ghostform&ed=mb2"
       },
       {
         "Nome": "Fantasmorfia de Kaya / Kaya's Ghostform",
@@ -31463,17 +31571,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,90",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kaya's Ghostform&ed=mb2"
-      },
-      {
-        "Nome": "Findar / Terminate",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "2,50",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Terminate&ed=cmd"
+        "Preço Venda (R$)": "2,45",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Kaya's Ghostform&ed=war"
       },
       {
         "Nome": "Findar / Terminate",
@@ -31483,6 +31582,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "0,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Terminate&ed=2x2"
+      },
+      {
+        "Nome": "Findar / Terminate",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "2,50",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Terminate&ed=cmd"
       },
       {
         "Nome": "Fingir a Própria Morte / Fake Your Own Death",
@@ -31877,7 +31985,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,18",
+        "Preço Venda (R$)": "5,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Cloudshredder Sliver&ed=mh1"
       },
       {
@@ -32111,7 +32219,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "15,29",
+        "Preço Venda (R$)": "15,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Herd Heirloom&ed=tdm"
       },
       {
@@ -32237,8 +32345,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "19,75",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lathliss, Dragon Queen&ed=jmp"
+        "Preço Venda (R$)": "19,54",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lathliss, Dragon Queen&ed=anj25"
       },
       {
         "Nome": "Lathliss, Rainha dos Dragões / Lathliss, Dragon Queen",
@@ -32246,8 +32354,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "19,54",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lathliss, Dragon Queen&ed=anj25"
+        "Preço Venda (R$)": "19,90",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lathliss, Dragon Queen&ed=jmp"
       },
       {
         "Nome": "Lathril, Espada dos Elfos / Lathril, Blade of the Elves",
@@ -32408,7 +32516,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "63,00",
+        "Preço Venda (R$)": "59,85",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Miirym, Sentinel Wyrm&ed=clb"
       },
       {
@@ -32471,7 +32579,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "63,20",
+        "Preço Venda (R$)": "63,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mox Jasper&ed=tdm"
       },
       {
@@ -32552,7 +32660,7 @@
         "Extra": "Foil",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "6,75",
+        "Preço Venda (R$)": "7,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=An Offer You Can't Refuse&ed=fdn"
       },
       {
@@ -32633,8 +32741,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,21",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Transguild Promenade&ed=c13"
+        "Preço Venda (R$)": "0,13",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Transguild Promenade&ed=cmr"
       },
       {
         "Nome": "Passeio Transguildas / Transguild Promenade",
@@ -32642,8 +32750,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,13",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Transguild Promenade&ed=cmr"
+        "Preço Venda (R$)": "0,21",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Transguild Promenade&ed=c13"
       },
       {
         "Nome": "Pedreira / Stone Quarry",
@@ -32660,7 +32768,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
+        "Preço Venda (R$)": "0,18",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Think Twice&ed=c19"
       },
       {
@@ -32714,8 +32822,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,06",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Guildgate&ed=grn"
+        "Preço Venda (R$)": "0,20",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Guildgate&ed=c13"
       },
       {
         "Nome": "Portão da Guilda Boros / Boros Guildgate",
@@ -32723,8 +32831,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Guildgate&ed=c13"
+        "Preço Venda (R$)": "0,06",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Boros Guildgate&ed=grn"
       },
       {
         "Nome": "Portão da Guilda Dimir / Dimir Guildgate",
@@ -32750,7 +32858,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,20",
+        "Preço Venda (R$)": "0,24",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Orzhov Guildgate&ed=c13"
       },
       {
@@ -32777,7 +32885,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,19",
+        "Preço Venda (R$)": "0,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Nomad Outpost&ed=c16"
       },
       {
@@ -32885,7 +32993,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,23",
+        "Preço Venda (R$)": "0,25",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Firemind Vessel&ed=2x2"
       },
       {
@@ -33191,17 +33299,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,99",
+        "Preço Venda (R$)": "0,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Silumgar, the Drifting Death&ed=c17"
-      },
-      {
-        "Nome": "Sinete Arcano / Arcane Signet",
-        "Qualidade": "NM",
-        "Extra": "",
-        "Idioma": "",
-        "Quantidade": "1x",
-        "Preço Venda (R$)": "4,95",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Arcane Signet&ed=moc"
       },
       {
         "Nome": "Sinete Arcano / Arcane Signet",
@@ -33211,6 +33310,15 @@
         "Quantidade": "1x",
         "Preço Venda (R$)": "5,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Arcane Signet&ed=afc"
+      },
+      {
+        "Nome": "Sinete Arcano / Arcane Signet",
+        "Qualidade": "NM",
+        "Extra": "",
+        "Idioma": "",
+        "Quantidade": "1x",
+        "Preço Venda (R$)": "4,95",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Arcane Signet&ed=moc"
       },
       {
         "Nome": "Soberano Abominável / Abhorrent Overlord",
@@ -33245,7 +33353,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,79",
+        "Preço Venda (R$)": "0,95",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hunter's Talent&ed=blb"
       },
       {
@@ -33281,7 +33389,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,25",
+        "Preço Venda (R$)": "0,26",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Breaching Dragonstorm&ed=tdm"
       },
       {
@@ -33299,7 +33407,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "22,02",
+        "Preço Venda (R$)": "19,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragon Tempest&ed=c17"
       },
       {
@@ -33308,8 +33416,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "22,02",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragon Tempest&ed=c17"
+        "Preço Venda (R$)": "18,99",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Dragon Tempest&ed=dtk"
       },
       {
         "Nome": "Templo do Engano / Temple of Deceit",
@@ -33389,7 +33497,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "25,20",
+        "Preço Venda (R$)": "25,19",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Hellkite Tyrant&ed=barvr"
       },
       {
@@ -34081,7 +34189,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,95",
+        "Preço Venda (R$)": "25,18",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Willowrush Verge&ed=dft"
       },
       {
@@ -34198,7 +34306,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "3,46",
+        "Preço Venda (R$)": "3,56",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Riverchurn Monument&ed=dft"
       },
       {
@@ -34342,8 +34450,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,14",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Simic Guildgate&ed=cmr"
+        "Preço Venda (R$)": "0,10",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Simic Guildgate&ed=rna"
       },
       {
         "Nome": "Portão da Guilda Simic / Simic Guildgate",
@@ -34351,8 +34459,8 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,10",
-        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Simic Guildgate&ed=rna"
+        "Preço Venda (R$)": "0,14",
+        "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Simic Guildgate&ed=cmr"
       },
       {
         "Nome": "Praça do Portão / Gateway Plaza",
@@ -34429,19 +34537,19 @@
       {
         "Nome": "Vaga-mundo Pesado / Lumbering Worldwagon",
         "Qualidade": "NM",
-        "Extra": "",
+        "Extra": "Foil",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,85",
+        "Preço Venda (R$)": "4,68",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lumbering Worldwagon&ed=dft"
       },
       {
         "Nome": "Vaga-mundo Pesado / Lumbering Worldwagon",
         "Qualidade": "NM",
-        "Extra": "Foil",
+        "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "4,68",
+        "Preço Venda (R$)": "1,85",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Lumbering Worldwagon&ed=dft"
       },
       {
@@ -34632,7 +34740,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "145,00",
+        "Preço Venda (R$)": "171,75",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Exquisite Blood&ed=avr"
       },
       {
@@ -35257,7 +35365,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,35",
+        "Preço Venda (R$)": "0,34",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Llanowar Elves&ed=fdn"
       },
       {
@@ -35725,7 +35833,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "63,20",
+        "Preço Venda (R$)": "63,00",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Mox Jasper&ed=tdm"
       },
       {
@@ -35869,7 +35977,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,98",
+        "Preço Venda (R$)": "1,57",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Sevinne's Reclamation&ed=mh3"
       },
       {
@@ -36285,7 +36393,7 @@
         "Extra": "",
         "Idioma": "-",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "21,34",
+        "Preço Venda (R$)": "22,77",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Animate Dead&ed=ema"
       },
       {
@@ -36705,7 +36813,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "2x",
-        "Preço Venda (R$)": "0,15",
+        "Preço Venda (R$)": "0,16",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Helpful Hunter&ed=fdn"
       },
       {
@@ -37578,7 +37686,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "11,98",
+        "Preço Venda (R$)": "10,78",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Leyline Axe&ed=fdn"
       },
       {
@@ -37605,7 +37713,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "5,94",
+        "Preço Venda (R$)": "5,71",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Songcrafter Mage&ed=tdm"
       },
       {
@@ -37839,7 +37947,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "13,00",
+        "Preço Venda (R$)": "9,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Perennation&ed=tdm"
       },
       {
@@ -38361,7 +38469,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "297,29",
+        "Preço Venda (R$)": "288,99",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Trouble in Pairs&ed=mkc"
       },
       {
@@ -39002,7 +39110,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "0,92",
+        "Preço Venda (R$)": "0,95",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Ranging Raptors&ed=xln"
       },
       {
@@ -39056,7 +39164,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "18,94",
+        "Preço Venda (R$)": "12,49",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Nature's Lore&ed=mkc"
       },
       {
@@ -39207,7 +39315,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "14,31",
+        "Preço Venda (R$)": "12,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Traverse the Outlands&ed=c17"
       },
       {
@@ -39234,7 +39342,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "2,89",
+        "Preço Venda (R$)": "2,70",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Bighorner Rancher&ed=pip"
       },
       {
@@ -39315,7 +39423,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "19,48",
+        "Preço Venda (R$)": "14,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Overwhelming Stampede&ed=c14"
       },
       {
@@ -39486,7 +39594,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "27,51",
+        "Preço Venda (R$)": "28,15",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Monster Manual // Zoological Study&ed=clb"
       },
       {
@@ -39540,7 +39648,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "1,82",
+        "Preço Venda (R$)": "2,46",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Whelming Wave&ed=bng"
       },
       {
@@ -39844,7 +39952,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "18,27",
+        "Preço Venda (R$)": "18,26",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Blasphemous Act&ed=c16"
       },
       {
@@ -40438,7 +40546,7 @@
         "Extra": "",
         "Idioma": "",
         "Quantidade": "1x",
-        "Preço Venda (R$)": "21,25",
+        "Preço Venda (R$)": "18,90",
         "Imagem": "https://ligamagic.com.br/?view=cards/card&card=Shielded by Faith&ed=c15"
       },
       {
